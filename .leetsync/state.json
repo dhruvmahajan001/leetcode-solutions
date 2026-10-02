@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1790920912973,
+  "updatedAt": 1790921156735,
   "devices": {
     "ead38585-6fbb-49c6-951e-f21d4ca94703": {
-      "lastSeen": 1790920912371
+      "lastSeen": 1790921156051
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Recursion"
       ],
       "title": "Add Two Numbers",
-      "at": 1790920912371
+      "at": 1790921156051
     },
     "19": {
       "attempts": 1,
@@ -44,7 +44,7 @@
         "Two Pointers"
       ],
       "title": "Remove Nth Node From End of List",
-      "at": 1790920912371
+      "at": 1790921156051
     },
     "21": {
       "attempts": 1,
@@ -63,7 +63,7 @@
         "Recursion"
       ],
       "title": "Merge Two Sorted Lists",
-      "at": 1790920912371
+      "at": 1790921156051
     },
     "24": {
       "attempts": 1,
@@ -82,7 +82,7 @@
         "Recursion"
       ],
       "title": "Swap Nodes in Pairs",
-      "at": 1790920912371
+      "at": 1790921156051
     },
     "61": {
       "attempts": 1,
@@ -101,7 +101,7 @@
         "Two Pointers"
       ],
       "title": "Rotate List",
-      "at": 1790920912371
+      "at": 1790921156051
     },
     "82": {
       "attempts": 1,
@@ -120,7 +120,7 @@
         "Two Pointers"
       ],
       "title": "Remove Duplicates from Sorted List II",
-      "at": 1790920912371
+      "at": 1790921156051
     },
     "83": {
       "attempts": 1,
@@ -138,7 +138,7 @@
         "Linked List"
       ],
       "title": "Remove Duplicates from Sorted List",
-      "at": 1790920912371
+      "at": 1790921156051
     },
     "86": {
       "attempts": 1,
@@ -157,7 +157,7 @@
         "Two Pointers"
       ],
       "title": "Partition List",
-      "at": 1790920912371
+      "at": 1790921156051
     },
     "92": {
       "attempts": 1,
@@ -175,7 +175,7 @@
         "Linked List"
       ],
       "title": "Reverse Linked List II",
-      "at": 1790920912371
+      "at": 1790921156051
     },
     "141": {
       "attempts": 1,
@@ -196,7 +196,7 @@
         "Floyd's Cycle Finding Algorithm"
       ],
       "title": "Linked List Cycle",
-      "at": 1790920912371
+      "at": 1790921156051
     },
     "142": {
       "attempts": 1,
@@ -217,7 +217,7 @@
         "Floyd's Cycle Finding Algorithm"
       ],
       "title": "Linked List Cycle II",
-      "at": 1790920912371
+      "at": 1790921156051
     },
     "143": {
       "attempts": 1,
@@ -238,7 +238,7 @@
         "Recursion"
       ],
       "title": "Reorder List",
-      "at": 1790920912371
+      "at": 1790921156051
     },
     "147": {
       "attempts": 1,
@@ -257,7 +257,7 @@
         "Sorting"
       ],
       "title": "Insertion Sort List",
-      "at": 1790920912371
+      "at": 1790921156051
     },
     "148": {
       "attempts": 1,
@@ -279,7 +279,7 @@
         "Merge Sort"
       ],
       "title": "Sort List",
-      "at": 1790920912371
+      "at": 1790921156051
     },
     "160": {
       "attempts": 1,
@@ -299,7 +299,7 @@
         "Two Pointers"
       ],
       "title": "Intersection of Two Linked Lists",
-      "at": 1790920912371
+      "at": 1790921156051
     },
     "203": {
       "attempts": 1,
@@ -318,7 +318,7 @@
         "Recursion"
       ],
       "title": "Remove Linked List Elements",
-      "at": 1790920912371
+      "at": 1790921156051
     },
     "206": {
       "attempts": 1,
@@ -337,7 +337,7 @@
         "Recursion"
       ],
       "title": "Reverse Linked List",
-      "at": 1790920912371
+      "at": 1790921156051
     },
     "234": {
       "attempts": 1,
@@ -358,7 +358,7 @@
         "Recursion"
       ],
       "title": "Palindrome Linked List",
-      "at": 1790920912371
+      "at": 1790921156051
     },
     "237": {
       "attempts": 1,
@@ -376,7 +376,7 @@
         "Linked List"
       ],
       "title": "Delete Node in a Linked List",
-      "at": 1790920912371
+      "at": 1790921156051
     },
     "328": {
       "attempts": 2,
@@ -394,7 +394,7 @@
         "Linked List"
       ],
       "title": "Odd Even Linked List",
-      "at": 1790920912371
+      "at": 1790921156051
     },
     "876": {
       "attempts": 2,
@@ -413,7 +413,7 @@
         "Two Pointers"
       ],
       "title": "Middle of the Linked List",
-      "at": 1790920912371
+      "at": 1790921156051
     },
     "1290": {
       "attempts": 2,
@@ -432,7 +432,7 @@
         "Math"
       ],
       "title": "Convert Binary Number in a Linked List to Integer",
-      "at": 1790920912371
+      "at": 1790921156051
     },
     "1721": {
       "attempts": 1,
@@ -451,7 +451,7 @@
         "Two Pointers"
       ],
       "title": "Swapping Nodes in a Linked List",
-      "at": 1790920912371
+      "at": 1790921156051
     },
     "2095": {
       "attempts": 1,
@@ -470,7 +470,7 @@
         "Two Pointers"
       ],
       "title": "Delete the Middle Node of a Linked List",
-      "at": 1790920912371
+      "at": 1790921156051
     },
     "2487": {
       "attempts": 1,
@@ -491,7 +491,7 @@
         "Monotonic Stack"
       ],
       "title": "Remove Nodes From Linked List",
-      "at": 1790920912371
+      "at": 1790921156051
     }
   },
   "achievements": {
@@ -503,27 +503,31 @@
   },
   "sheets": {
     "striver-a2z-sheet|Introduction to Singly LinkedList": {
-      "at": 1790920912371,
+      "at": 1790921156051,
       "done": true
     },
     "striver-a2z-sheet|Insertion at the head of Linked List": {
-      "at": 1790920912371,
+      "at": 1790921156051,
       "done": true
     },
     "striver-a2z-sheet|Deletion of the head of LL": {
-      "at": 1790920912371,
+      "at": 1790921156051,
       "done": true
     },
     "striver-a2z-sheet|Find the length of the Linked List": {
-      "at": 1790920912371,
+      "at": 1790921156051,
       "done": true
     },
     "striver-a2z-sheet|Search in Linked List": {
-      "at": 1790920912371,
+      "at": 1790921156051,
       "done": true
     },
     "striver-a2z-sheet|Middle of a LinkedList [TortoiseHare Method]": {
-      "at": 1790920912371,
+      "at": 1790921156051,
+      "done": true
+    },
+    "striver-a2z-sheet|Length of loop in LL": {
+      "at": 1790921156051,
       "done": true
     }
   },
