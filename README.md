@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-13%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-4%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-9%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-14%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-5%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-9%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -42,6 +42,7 @@
 | 142 | [Linked List Cycle II](problems/0142-Linked-List-Cycle-II) | 🟧 Medium | `C++` | 2026-10-02 |
 | 143 | [Reorder List](problems/0143-Reorder-List) | 🟧 Medium | `C++` | 2026-10-02 |
 | 876 | [Middle of the Linked List](problems/0876-Middle-of-the-Linked-List) | 🟩 Easy | `C++` | 2026-10-02 |
+| 1290 | [Convert Binary Number in a Linked List to Integer](problems/1290-Convert-Binary-Number-in-a-Linked-List-to-Integer) | 🟩 Easy | `C++` | 2026-10-02 |
 
 ---
 
