@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1790920473755,
+  "updatedAt": 1790920549364,
   "devices": {
     "ead38585-6fbb-49c6-951e-f21d4ca94703": {
-      "lastSeen": 1790920473200
+      "lastSeen": 1790920548765
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Recursion"
       ],
       "title": "Add Two Numbers",
-      "at": 1790920473200
+      "at": 1790920548765
     },
     "19": {
       "attempts": 1,
@@ -44,7 +44,7 @@
         "Two Pointers"
       ],
       "title": "Remove Nth Node From End of List",
-      "at": 1790920473200
+      "at": 1790920548765
     },
     "21": {
       "attempts": 1,
@@ -63,7 +63,7 @@
         "Recursion"
       ],
       "title": "Merge Two Sorted Lists",
-      "at": 1790920473200
+      "at": 1790920548765
     },
     "24": {
       "attempts": 1,
@@ -82,7 +82,7 @@
         "Recursion"
       ],
       "title": "Swap Nodes in Pairs",
-      "at": 1790920473200
+      "at": 1790920548765
     },
     "61": {
       "attempts": 1,
@@ -101,7 +101,7 @@
         "Two Pointers"
       ],
       "title": "Rotate List",
-      "at": 1790920473200
+      "at": 1790920548765
     },
     "82": {
       "attempts": 1,
@@ -120,7 +120,7 @@
         "Two Pointers"
       ],
       "title": "Remove Duplicates from Sorted List II",
-      "at": 1790920473200
+      "at": 1790920548765
     },
     "83": {
       "attempts": 1,
@@ -138,7 +138,7 @@
         "Linked List"
       ],
       "title": "Remove Duplicates from Sorted List",
-      "at": 1790920473200
+      "at": 1790920548765
     },
     "86": {
       "attempts": 1,
@@ -157,7 +157,7 @@
         "Two Pointers"
       ],
       "title": "Partition List",
-      "at": 1790920473200
+      "at": 1790920548765
     },
     "92": {
       "attempts": 1,
@@ -175,7 +175,7 @@
         "Linked List"
       ],
       "title": "Reverse Linked List II",
-      "at": 1790920473200
+      "at": 1790920548765
     },
     "141": {
       "attempts": 1,
@@ -196,7 +196,7 @@
         "Floyd's Cycle Finding Algorithm"
       ],
       "title": "Linked List Cycle",
-      "at": 1790920473200
+      "at": 1790920548765
     },
     "142": {
       "attempts": 1,
@@ -217,7 +217,7 @@
         "Floyd's Cycle Finding Algorithm"
       ],
       "title": "Linked List Cycle II",
-      "at": 1790920473200
+      "at": 1790920548765
     },
     "143": {
       "attempts": 1,
@@ -238,7 +238,7 @@
         "Recursion"
       ],
       "title": "Reorder List",
-      "at": 1790920473200
+      "at": 1790920548765
     },
     "876": {
       "attempts": 2,
@@ -257,37 +257,95 @@
         "Two Pointers"
       ],
       "title": "Middle of the Linked List",
-      "at": 1790920473200
+      "at": 1790920548765
+    },
+    "1290": {
+      "attempts": 2,
+      "bestMemory": "10.5 MB (Beats 72%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-10-02",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-02",
+      "folderName": "1290-Convert-Binary-Number-in-a-Linked-List-to-Integer",
+      "language": "C++",
+      "number": 1290,
+      "slug": "convert-binary-number-in-a-linked-list-to-integer",
+      "solutionCount": 1,
+      "tags": [
+        "Linked List",
+        "Math"
+      ],
+      "title": "Convert Binary Number in a Linked List to Integer",
+      "at": 1790920548765
+    },
+    "1721": {
+      "attempts": 1,
+      "bestMemory": "185.1 MB (Beats 68%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-10-02",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-10-02",
+      "folderName": "1721-Swapping-Nodes-in-a-Linked-List",
+      "language": "C++",
+      "number": 1721,
+      "slug": "swapping-nodes-in-a-linked-list",
+      "solutionCount": 1,
+      "tags": [
+        "Linked List",
+        "Two Pointers"
+      ],
+      "title": "Swapping Nodes in a Linked List",
+      "at": 1790920548765
+    },
+    "2095": {
+      "attempts": 1,
+      "bestMemory": "311.9 MB (Beats 84%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-10-02",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-10-02",
+      "folderName": "2095-Delete-the-Middle-Node-of-a-Linked-List",
+      "language": "C++",
+      "number": 2095,
+      "slug": "delete-the-middle-node-of-a-linked-list",
+      "solutionCount": 1,
+      "tags": [
+        "Linked List",
+        "Two Pointers"
+      ],
+      "title": "Delete the Middle Node of a Linked List",
+      "at": 1790920548765
     }
   },
   "achievements": {
     "bookworm": 1790920247636,
     "deca": 1790920333069,
-    "first_blood": 1790920192792
+    "first_blood": 1790920192792,
+    "medium_rare": 1790920497626
   },
   "sheets": {
     "striver-a2z-sheet|Introduction to Singly LinkedList": {
-      "at": 1790920473200,
+      "at": 1790920548765,
       "done": true
     },
     "striver-a2z-sheet|Insertion at the head of Linked List": {
-      "at": 1790920473200,
+      "at": 1790920548765,
       "done": true
     },
     "striver-a2z-sheet|Deletion of the head of LL": {
-      "at": 1790920473200,
+      "at": 1790920548765,
       "done": true
     },
     "striver-a2z-sheet|Find the length of the Linked List": {
-      "at": 1790920473200,
+      "at": 1790920548765,
       "done": true
     },
     "striver-a2z-sheet|Search in Linked List": {
-      "at": 1790920473200,
+      "at": 1790920548765,
       "done": true
     },
     "striver-a2z-sheet|Middle of a LinkedList [TortoiseHare Method]": {
-      "at": 1790920473200,
+      "at": 1790920548765,
       "done": true
     }
   },
@@ -296,7 +354,7 @@
   ],
   "bests": {
     "longestStreak": 1,
-    "pushes": 14
+    "pushes": 17
   },
   "identity": {
     "installId": "ca7627c8-5498-44f4-b4cf-905fd7bf479d",
