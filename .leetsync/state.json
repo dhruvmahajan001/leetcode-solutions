@@ -1,0 +1,307 @@
+{
+  "v": 1,
+  "updatedAt": 1790920473755,
+  "devices": {
+    "ead38585-6fbb-49c6-951e-f21d4ca94703": {
+      "lastSeen": 1790920473200
+    }
+  },
+  "problems": {
+    "2": {
+      "attempts": 1,
+      "bestMemory": "77.2 MB (Beats 46%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-10-02",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-10-02",
+      "folderName": "0002-Add-Two-Numbers",
+      "language": "C++",
+      "number": 2,
+      "slug": "add-two-numbers",
+      "solutionCount": 1,
+      "tags": [
+        "Linked List",
+        "Math",
+        "Recursion"
+      ],
+      "title": "Add Two Numbers",
+      "at": 1790920473200
+    },
+    "19": {
+      "attempts": 1,
+      "bestMemory": "15.1 MB (Beats 26%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-10-02",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-10-02",
+      "folderName": "0019-Remove-Nth-Node-From-End-of-List",
+      "language": "C++",
+      "number": 19,
+      "slug": "remove-nth-node-from-end-of-list",
+      "solutionCount": 1,
+      "tags": [
+        "Linked List",
+        "Two Pointers"
+      ],
+      "title": "Remove Nth Node From End of List",
+      "at": 1790920473200
+    },
+    "21": {
+      "attempts": 1,
+      "bestMemory": "19.6 MB (Beats 27%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-10-02",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-02",
+      "folderName": "0021-Merge-Two-Sorted-Lists",
+      "language": "C++",
+      "number": 21,
+      "slug": "merge-two-sorted-lists",
+      "solutionCount": 1,
+      "tags": [
+        "Linked List",
+        "Recursion"
+      ],
+      "title": "Merge Two Sorted Lists",
+      "at": 1790920473200
+    },
+    "24": {
+      "attempts": 1,
+      "bestMemory": "11.3 MB (Beats 20%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-10-02",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-10-02",
+      "folderName": "0024-Swap-Nodes-in-Pairs",
+      "language": "C++",
+      "number": 24,
+      "slug": "swap-nodes-in-pairs",
+      "solutionCount": 1,
+      "tags": [
+        "Linked List",
+        "Recursion"
+      ],
+      "title": "Swap Nodes in Pairs",
+      "at": 1790920473200
+    },
+    "61": {
+      "attempts": 1,
+      "bestMemory": "16.4 MB (Beats 63%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-10-02",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-10-02",
+      "folderName": "0061-Rotate-List",
+      "language": "C++",
+      "number": 61,
+      "slug": "rotate-list",
+      "solutionCount": 1,
+      "tags": [
+        "Linked List",
+        "Two Pointers"
+      ],
+      "title": "Rotate List",
+      "at": 1790920473200
+    },
+    "82": {
+      "attempts": 1,
+      "bestMemory": "15.8 MB (Beats 45%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-10-02",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-10-02",
+      "folderName": "0082-Remove-Duplicates-from-Sorted-List-II",
+      "language": "C++",
+      "number": 82,
+      "slug": "remove-duplicates-from-sorted-list-ii",
+      "solutionCount": 1,
+      "tags": [
+        "Linked List",
+        "Two Pointers"
+      ],
+      "title": "Remove Duplicates from Sorted List II",
+      "at": 1790920473200
+    },
+    "83": {
+      "attempts": 1,
+      "bestMemory": "16.3 MB (Beats 33%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-10-02",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-02",
+      "folderName": "0083-Remove-Duplicates-from-Sorted-List",
+      "language": "C++",
+      "number": 83,
+      "slug": "remove-duplicates-from-sorted-list",
+      "solutionCount": 1,
+      "tags": [
+        "Linked List"
+      ],
+      "title": "Remove Duplicates from Sorted List",
+      "at": 1790920473200
+    },
+    "86": {
+      "attempts": 1,
+      "bestMemory": "15 MB (Beats 12%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-10-02",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-10-02",
+      "folderName": "0086-Partition-List",
+      "language": "C++",
+      "number": 86,
+      "slug": "partition-list",
+      "solutionCount": 1,
+      "tags": [
+        "Linked List",
+        "Two Pointers"
+      ],
+      "title": "Partition List",
+      "at": 1790920473200
+    },
+    "92": {
+      "attempts": 1,
+      "bestMemory": "11.3 MB (Beats 38%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-10-02",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-10-02",
+      "folderName": "0092-Reverse-Linked-List-II",
+      "language": "C++",
+      "number": 92,
+      "slug": "reverse-linked-list-ii",
+      "solutionCount": 1,
+      "tags": [
+        "Linked List"
+      ],
+      "title": "Reverse Linked List II",
+      "at": 1790920473200
+    },
+    "141": {
+      "attempts": 1,
+      "bestMemory": "11.7 MB (Beats 97%)",
+      "bestRuntime": "13 ms (Beats 18%)",
+      "date": "2026-10-02",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-02",
+      "folderName": "0141-Linked-List-Cycle",
+      "language": "C++",
+      "number": 141,
+      "slug": "linked-list-cycle",
+      "solutionCount": 1,
+      "tags": [
+        "Hash Table",
+        "Linked List",
+        "Two Pointers",
+        "Floyd's Cycle Finding Algorithm"
+      ],
+      "title": "Linked List Cycle",
+      "at": 1790920473200
+    },
+    "142": {
+      "attempts": 1,
+      "bestMemory": "11.2 MB (Beats 85%)",
+      "bestRuntime": "10 ms (Beats 43%)",
+      "date": "2026-10-02",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-10-02",
+      "folderName": "0142-Linked-List-Cycle-II",
+      "language": "C++",
+      "number": 142,
+      "slug": "linked-list-cycle-ii",
+      "solutionCount": 1,
+      "tags": [
+        "Hash Table",
+        "Linked List",
+        "Two Pointers",
+        "Floyd's Cycle Finding Algorithm"
+      ],
+      "title": "Linked List Cycle II",
+      "at": 1790920473200
+    },
+    "143": {
+      "attempts": 1,
+      "bestMemory": "22.8 MB (Beats 51%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-10-02",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-10-02",
+      "folderName": "0143-Reorder-List",
+      "language": "C++",
+      "number": 143,
+      "slug": "reorder-list",
+      "solutionCount": 1,
+      "tags": [
+        "Linked List",
+        "Two Pointers",
+        "Stack",
+        "Recursion"
+      ],
+      "title": "Reorder List",
+      "at": 1790920473200
+    },
+    "876": {
+      "attempts": 2,
+      "bestMemory": "9.8 MB (Beats 90%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-10-02",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-02",
+      "folderName": "0876-Middle-of-the-Linked-List",
+      "language": "C++",
+      "number": 876,
+      "slug": "middle-of-the-linked-list",
+      "solutionCount": 2,
+      "tags": [
+        "Linked List",
+        "Two Pointers"
+      ],
+      "title": "Middle of the Linked List",
+      "at": 1790920473200
+    }
+  },
+  "achievements": {
+    "bookworm": 1790920247636,
+    "deca": 1790920333069,
+    "first_blood": 1790920192792
+  },
+  "sheets": {
+    "striver-a2z-sheet|Introduction to Singly LinkedList": {
+      "at": 1790920473200,
+      "done": true
+    },
+    "striver-a2z-sheet|Insertion at the head of Linked List": {
+      "at": 1790920473200,
+      "done": true
+    },
+    "striver-a2z-sheet|Deletion of the head of LL": {
+      "at": 1790920473200,
+      "done": true
+    },
+    "striver-a2z-sheet|Find the length of the Linked List": {
+      "at": 1790920473200,
+      "done": true
+    },
+    "striver-a2z-sheet|Search in Linked List": {
+      "at": 1790920473200,
+      "done": true
+    },
+    "striver-a2z-sheet|Middle of a LinkedList [TortoiseHare Method]": {
+      "at": 1790920473200,
+      "done": true
+    }
+  },
+  "days": [
+    "2026-10-02"
+  ],
+  "bests": {
+    "longestStreak": 1,
+    "pushes": 14
+  },
+  "identity": {
+    "installId": "ca7627c8-5498-44f4-b4cf-905fd7bf479d",
+    "at": 1790919956008,
+    "name": "Dhruv",
+    "nameAt": 1790920084688
+  }
+}
