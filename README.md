@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-44%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-15%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-27%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-2%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-45%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-16%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-27%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-2%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -32,6 +32,7 @@
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
 | 1266 | [Minimum Time Visiting All Points](problems/1266-Minimum-Time-Visiting-All-Points) | 🟩 Easy | `C++` | 2026-10-04 |
+| 1200 | [Minimum Absolute Difference](problems/1200-Minimum-Absolute-Difference) | 🟩 Easy | `C++` | 2026-10-04 |
 | 845 | [Longest Mountain in Array](problems/0845-Longest-Mountain-in-Array) | 🟧 Medium | `C++` | 2026-10-04 |
 | 46 | [Permutations](problems/0046-Permutations) | 🟧 Medium | `C++` | 2026-10-04 |
 | 33 | [Search in Rotated Sorted Array](problems/0033-Search-in-Rotated-Sorted-Array) | 🟧 Medium | `C++` | 2026-10-04 |
@@ -40,10 +41,9 @@
 | 1669 | [Merge In Between Linked Lists](problems/1669-Merge-In-Between-Linked-Lists) | 🟧 Medium | `C++` | 2026-10-03 |
 | 1572 | [Matrix Diagonal Sum](problems/1572-Matrix-Diagonal-Sum) | 🟩 Easy | `C++` | 2026-10-03 |
 | 1512 | [Number of Good Pairs](problems/1512-Number-of-Good-Pairs) | 🟩 Easy | `C++` | 2026-10-03 |
-| 1171 | [Remove Zero Sum Consecutive Nodes from Linked List](problems/1171-Remove-Zero-Sum-Consecutive-Nodes-from-Linked-List) | 🟧 Medium | `C++` | 2026-10-03 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 15 solved</summary>
+<summary><strong>🟩 Easy</strong> — 16 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -58,6 +58,7 @@
 | 704 | [Binary Search](problems/0704-Binary-Search) | 🟩 Easy | `C++` | 2026-10-03 |
 | 705 | [Design HashSet](problems/0705-Design-HashSet) | 🟩 Easy | `C++` | 2026-10-03 |
 | 876 | [Middle of the Linked List](problems/0876-Middle-of-the-Linked-List) | 🟩 Easy | `C++` | 2026-10-02 |
+| 1200 | [Minimum Absolute Difference](problems/1200-Minimum-Absolute-Difference) | 🟩 Easy | `C++` | 2026-10-04 |
 | 1266 | [Minimum Time Visiting All Points](problems/1266-Minimum-Time-Visiting-All-Points) | 🟩 Easy | `C++` | 2026-10-04 |
 | 1290 | [Convert Binary Number in a Linked List to Integer](problems/1290-Convert-Binary-Number-in-a-Linked-List-to-Integer) | 🟩 Easy | `C++` | 2026-10-02 |
 | 1512 | [Number of Good Pairs](problems/1512-Number-of-Good-Pairs) | 🟩 Easy | `C++` | 2026-10-03 |
