@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-41%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-15%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-24%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-2%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-42%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-15%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-25%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-2%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -32,6 +32,7 @@
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
 | 1266 | [Minimum Time Visiting All Points](problems/1266-Minimum-Time-Visiting-All-Points) | 🟩 Easy | `C++` | 2026-10-04 |
+| 845 | [Longest Mountain in Array](problems/0845-Longest-Mountain-in-Array) | 🟧 Medium | `C++` | 2026-10-04 |
 | 2181 | [Merge Nodes in Between Zeros](problems/2181-Merge-Nodes-in-Between-Zeros) | 🟧 Medium | `C++` | 2026-10-03 |
 | 2130 | [Maximum Twin Sum of a Linked List](problems/2130-Maximum-Twin-Sum-of-a-Linked-List) | 🟧 Medium | `C++` | 2026-10-03 |
 | 1669 | [Merge In Between Linked Lists](problems/1669-Merge-In-Between-Linked-Lists) | 🟧 Medium | `C++` | 2026-10-03 |
@@ -40,7 +41,6 @@
 | 1171 | [Remove Zero Sum Consecutive Nodes from Linked List](problems/1171-Remove-Zero-Sum-Consecutive-Nodes-from-Linked-List) | 🟧 Medium | `C++` | 2026-10-03 |
 | 1019 | [Next Greater Node In Linked List](problems/1019-Next-Greater-Node-In-Linked-List) | 🟧 Medium | `C++` | 2026-10-03 |
 | 817 | [Linked List Components](problems/0817-Linked-List-Components) | 🟧 Medium | `C++` | 2026-10-03 |
-| 725 | [Split Linked List in Parts](problems/0725-Split-Linked-List-in-Parts) | 🟧 Medium | `C++` | 2026-10-03 |
 
 <details>
 <summary><strong>🟩 Easy</strong> — 15 solved</summary>
@@ -66,7 +66,7 @@
 </details>
 
 <details>
-<summary><strong>🟧 Medium</strong> — 24 solved</summary>
+<summary><strong>🟧 Medium</strong> — 25 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -86,6 +86,7 @@
 | 707 | [Design Linked List](problems/0707-Design-Linked-List) | 🟧 Medium | `C++` | 2026-10-03 |
 | 725 | [Split Linked List in Parts](problems/0725-Split-Linked-List-in-Parts) | 🟧 Medium | `C++` | 2026-10-03 |
 | 817 | [Linked List Components](problems/0817-Linked-List-Components) | 🟧 Medium | `C++` | 2026-10-03 |
+| 845 | [Longest Mountain in Array](problems/0845-Longest-Mountain-in-Array) | 🟧 Medium | `C++` | 2026-10-04 |
 | 1019 | [Next Greater Node In Linked List](problems/1019-Next-Greater-Node-In-Linked-List) | 🟧 Medium | `C++` | 2026-10-03 |
 | 1171 | [Remove Zero Sum Consecutive Nodes from Linked List](problems/1171-Remove-Zero-Sum-Consecutive-Nodes-from-Linked-List) | 🟧 Medium | `C++` | 2026-10-03 |
 | 1669 | [Merge In Between Linked Lists](problems/1669-Merge-In-Between-Linked-Lists) | 🟧 Medium | `C++` | 2026-10-03 |
