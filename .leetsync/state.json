@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1791175020423,
+  "updatedAt": 1791175256688,
   "devices": {
     "ead38585-6fbb-49c6-951e-f21d4ca94703": {
-      "lastSeen": 1791175019478
+      "lastSeen": 1791175256045
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Recursion"
       ],
       "title": "Add Two Numbers",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "19": {
       "attempts": 1,
@@ -44,7 +44,7 @@
         "Two Pointers"
       ],
       "title": "Remove Nth Node From End of List",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "21": {
       "attempts": 1,
@@ -63,7 +63,7 @@
         "Recursion"
       ],
       "title": "Merge Two Sorted Lists",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "23": {
       "attempts": 6,
@@ -85,7 +85,7 @@
         "Tournament Sort"
       ],
       "title": "Merge k Sorted Lists",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "24": {
       "attempts": 1,
@@ -104,7 +104,7 @@
         "Recursion"
       ],
       "title": "Swap Nodes in Pairs",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "25": {
       "attempts": 4,
@@ -123,7 +123,7 @@
         "Recursion"
       ],
       "title": "Reverse Nodes in k-Group",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "33": {
       "attempts": 2,
@@ -142,7 +142,7 @@
         "Binary Search"
       ],
       "title": "Search in Rotated Sorted Array",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "46": {
       "attempts": 2,
@@ -161,7 +161,7 @@
         "Backtracking"
       ],
       "title": "Permutations",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "61": {
       "attempts": 1,
@@ -180,7 +180,7 @@
         "Two Pointers"
       ],
       "title": "Rotate List",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "69": {
       "attempts": 1,
@@ -200,7 +200,7 @@
         "Newton's Method"
       ],
       "title": "Sqrt(x)",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "82": {
       "attempts": 1,
@@ -219,7 +219,7 @@
         "Two Pointers"
       ],
       "title": "Remove Duplicates from Sorted List II",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "83": {
       "attempts": 3,
@@ -237,7 +237,7 @@
         "Linked List"
       ],
       "title": "Remove Duplicates from Sorted List",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "86": {
       "attempts": 1,
@@ -256,7 +256,7 @@
         "Two Pointers"
       ],
       "title": "Partition List",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "92": {
       "attempts": 1,
@@ -274,7 +274,7 @@
         "Linked List"
       ],
       "title": "Reverse Linked List II",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "141": {
       "attempts": 1,
@@ -295,7 +295,7 @@
         "Floyd's Cycle Finding Algorithm"
       ],
       "title": "Linked List Cycle",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "142": {
       "attempts": 1,
@@ -316,7 +316,7 @@
         "Floyd's Cycle Finding Algorithm"
       ],
       "title": "Linked List Cycle II",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "143": {
       "attempts": 1,
@@ -337,7 +337,7 @@
         "Recursion"
       ],
       "title": "Reorder List",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "147": {
       "attempts": 1,
@@ -356,7 +356,7 @@
         "Sorting"
       ],
       "title": "Insertion Sort List",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "148": {
       "attempts": 1,
@@ -378,7 +378,7 @@
         "Merge Sort"
       ],
       "title": "Sort List",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "160": {
       "attempts": 1,
@@ -398,7 +398,7 @@
         "Two Pointers"
       ],
       "title": "Intersection of Two Linked Lists",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "203": {
       "attempts": 1,
@@ -417,7 +417,7 @@
         "Recursion"
       ],
       "title": "Remove Linked List Elements",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "206": {
       "attempts": 1,
@@ -436,7 +436,7 @@
         "Recursion"
       ],
       "title": "Reverse Linked List",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "234": {
       "attempts": 1,
@@ -457,7 +457,7 @@
         "Recursion"
       ],
       "title": "Palindrome Linked List",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "237": {
       "attempts": 1,
@@ -475,7 +475,7 @@
         "Linked List"
       ],
       "title": "Delete Node in a Linked List",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "328": {
       "attempts": 2,
@@ -493,7 +493,28 @@
         "Linked List"
       ],
       "title": "Odd Even Linked List",
-      "at": 1791175019478
+      "at": 1791175256045
+    },
+    "496": {
+      "attempts": 2,
+      "bestMemory": "12.7 MB (Beats 75%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-10-05",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-05",
+      "folderName": "0496-Next-Greater-Element-I",
+      "language": "C++",
+      "number": 496,
+      "slug": "next-greater-element-i",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Hash Table",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "title": "Next Greater Element I",
+      "at": 1791175256045
     },
     "704": {
       "attempts": 4,
@@ -512,7 +533,7 @@
         "Binary Search"
       ],
       "title": "Binary Search",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "705": {
       "attempts": 1,
@@ -534,7 +555,7 @@
         "Hash Function"
       ],
       "title": "Design HashSet",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "707": {
       "attempts": 1,
@@ -553,7 +574,7 @@
         "Design"
       ],
       "title": "Design Linked List",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "725": {
       "attempts": 1,
@@ -571,7 +592,7 @@
         "Linked List"
       ],
       "title": "Split Linked List in Parts",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "817": {
       "attempts": 1,
@@ -591,7 +612,7 @@
         "Linked List"
       ],
       "title": "Linked List Components",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "845": {
       "attempts": 1,
@@ -612,7 +633,7 @@
         "Enumeration"
       ],
       "title": "Longest Mountain in Array",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "876": {
       "attempts": 2,
@@ -631,7 +652,7 @@
         "Two Pointers"
       ],
       "title": "Middle of the Linked List",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "1019": {
       "attempts": 1,
@@ -652,7 +673,7 @@
         "Monotonic Stack"
       ],
       "title": "Next Greater Node In Linked List",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "1171": {
       "attempts": 2,
@@ -671,7 +692,7 @@
         "Linked List"
       ],
       "title": "Remove Zero Sum Consecutive Nodes from Linked List",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "1200": {
       "attempts": 1,
@@ -690,7 +711,7 @@
         "Sorting"
       ],
       "title": "Minimum Absolute Difference",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "1266": {
       "attempts": 1,
@@ -710,7 +731,7 @@
         "Geometry"
       ],
       "title": "Minimum Time Visiting All Points",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "1290": {
       "attempts": 2,
@@ -729,7 +750,7 @@
         "Math"
       ],
       "title": "Convert Binary Number in a Linked List to Integer",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "1512": {
       "attempts": 1,
@@ -750,7 +771,7 @@
         "Counting"
       ],
       "title": "Number of Good Pairs",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "1572": {
       "attempts": 3,
@@ -769,7 +790,7 @@
         "Matrix"
       ],
       "title": "Matrix Diagonal Sum",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "1669": {
       "attempts": 1,
@@ -787,7 +808,7 @@
         "Linked List"
       ],
       "title": "Merge In Between Linked Lists",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "1721": {
       "attempts": 1,
@@ -806,7 +827,7 @@
         "Two Pointers"
       ],
       "title": "Swapping Nodes in a Linked List",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "2095": {
       "attempts": 1,
@@ -825,7 +846,7 @@
         "Two Pointers"
       ],
       "title": "Delete the Middle Node of a Linked List",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "2130": {
       "attempts": 3,
@@ -845,7 +866,7 @@
         "Stack"
       ],
       "title": "Maximum Twin Sum of a Linked List",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "2181": {
       "attempts": 1,
@@ -864,7 +885,7 @@
         "Simulation"
       ],
       "title": "Merge Nodes in Between Zeros",
-      "at": 1791175019478
+      "at": 1791175256045
     },
     "2487": {
       "attempts": 1,
@@ -885,7 +906,7 @@
         "Monotonic Stack"
       ],
       "title": "Remove Nodes From Linked List",
-      "at": 1791175019478
+      "at": 1791175256045
     }
   },
   "achievements": {
@@ -900,43 +921,43 @@
   },
   "sheets": {
     "striver-a2z-sheet|Introduction to Singly LinkedList": {
-      "at": 1791175019478,
+      "at": 1791175256045,
       "done": true
     },
     "striver-a2z-sheet|Insertion at the head of Linked List": {
-      "at": 1791175019478,
+      "at": 1791175256045,
       "done": true
     },
     "striver-a2z-sheet|Deletion of the head of LL": {
-      "at": 1791175019478,
+      "at": 1791175256045,
       "done": true
     },
     "striver-a2z-sheet|Find the length of the Linked List": {
-      "at": 1791175019478,
+      "at": 1791175256045,
       "done": true
     },
     "striver-a2z-sheet|Search in Linked List": {
-      "at": 1791175019478,
+      "at": 1791175256045,
       "done": true
     },
     "striver-a2z-sheet|Middle of a LinkedList [TortoiseHare Method]": {
-      "at": 1791175019478,
+      "at": 1791175256045,
       "done": true
     },
     "striver-a2z-sheet|Length of loop in LL": {
-      "at": 1791175019478,
+      "at": 1791175256045,
       "done": true
     },
     "striver-a2z-sheet|Add one to a number represented by LL": {
-      "at": 1791175019478,
+      "at": 1791175256045,
       "done": true
     },
     "striver-a2z-sheet|Flattening of LL": {
-      "at": 1791175019478,
+      "at": 1791175256045,
       "done": true
     },
     "striver-a2z-sheet|Sort a Linked List of 0's 1's and 2's": {
-      "at": 1791175019478,
+      "at": 1791175256045,
       "done": true
     }
   },
@@ -948,7 +969,7 @@
   ],
   "bests": {
     "longestStreak": 4,
-    "pushes": 49
+    "pushes": 50
   },
   "identity": {
     "installId": "ca7627c8-5498-44f4-b4cf-905fd7bf479d",
