@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-45%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-16%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-27%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-2%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-46%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-17%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-27%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-2%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 496 | [Next Greater Element I](problems/0496-Next-Greater-Element-I) | 🟩 Easy | `C++` | 2026-10-05 |
 | 83 | [Remove Duplicates from Sorted List](problems/0083-Remove-Duplicates-from-Sorted-List) | 🟩 Easy | `C++` | 2026-10-05 |
 | 1266 | [Minimum Time Visiting All Points](problems/1266-Minimum-Time-Visiting-All-Points) | 🟩 Easy | `C++` | 2026-10-04 |
 | 1200 | [Minimum Absolute Difference](problems/1200-Minimum-Absolute-Difference) | 🟩 Easy | `C++` | 2026-10-04 |
@@ -40,10 +41,9 @@
 | 2181 | [Merge Nodes in Between Zeros](problems/2181-Merge-Nodes-in-Between-Zeros) | 🟧 Medium | `C++` | 2026-10-03 |
 | 2130 | [Maximum Twin Sum of a Linked List](problems/2130-Maximum-Twin-Sum-of-a-Linked-List) | 🟧 Medium | `C++` | 2026-10-03 |
 | 1669 | [Merge In Between Linked Lists](problems/1669-Merge-In-Between-Linked-Lists) | 🟧 Medium | `C++` | 2026-10-03 |
-| 1572 | [Matrix Diagonal Sum](problems/1572-Matrix-Diagonal-Sum) | 🟩 Easy | `C++` | 2026-10-03 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 16 solved</summary>
+<summary><strong>🟩 Easy</strong> — 17 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -55,6 +55,7 @@
 | 203 | [Remove Linked List Elements](problems/0203-Remove-Linked-List-Elements) | 🟩 Easy | `C++` | 2026-10-02 |
 | 206 | [Reverse Linked List](problems/0206-Reverse-Linked-List) | 🟩 Easy | `C++` | 2026-10-02 |
 | 234 | [Palindrome Linked List](problems/0234-Palindrome-Linked-List) | 🟩 Easy | `C++` | 2026-10-02 |
+| 496 | [Next Greater Element I](problems/0496-Next-Greater-Element-I) | 🟩 Easy | `C++` | 2026-10-05 |
 | 704 | [Binary Search](problems/0704-Binary-Search) | 🟩 Easy | `C++` | 2026-10-03 |
 | 705 | [Design HashSet](problems/0705-Design-HashSet) | 🟩 Easy | `C++` | 2026-10-03 |
 | 876 | [Middle of the Linked List](problems/0876-Middle-of-the-Linked-List) | 🟩 Easy | `C++` | 2026-10-02 |
