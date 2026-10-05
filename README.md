@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 83 | [Remove Duplicates from Sorted List](problems/0083-Remove-Duplicates-from-Sorted-List) | 🟩 Easy | `C++` | 2026-10-05 |
 | 1266 | [Minimum Time Visiting All Points](problems/1266-Minimum-Time-Visiting-All-Points) | 🟩 Easy | `C++` | 2026-10-04 |
 | 1200 | [Minimum Absolute Difference](problems/1200-Minimum-Absolute-Difference) | 🟩 Easy | `C++` | 2026-10-04 |
 | 845 | [Longest Mountain in Array](problems/0845-Longest-Mountain-in-Array) | 🟧 Medium | `C++` | 2026-10-04 |
@@ -40,7 +41,6 @@
 | 2130 | [Maximum Twin Sum of a Linked List](problems/2130-Maximum-Twin-Sum-of-a-Linked-List) | 🟧 Medium | `C++` | 2026-10-03 |
 | 1669 | [Merge In Between Linked Lists](problems/1669-Merge-In-Between-Linked-Lists) | 🟧 Medium | `C++` | 2026-10-03 |
 | 1572 | [Matrix Diagonal Sum](problems/1572-Matrix-Diagonal-Sum) | 🟩 Easy | `C++` | 2026-10-03 |
-| 1512 | [Number of Good Pairs](problems/1512-Number-of-Good-Pairs) | 🟩 Easy | `C++` | 2026-10-03 |
 
 <details>
 <summary><strong>🟩 Easy</strong> — 16 solved</summary>
@@ -49,7 +49,7 @@
 |:---:|:--------|:----------:|:--------:|:----:|
 | 21 | [Merge Two Sorted Lists](problems/0021-Merge-Two-Sorted-Lists) | 🟩 Easy | `C++` | 2026-10-02 |
 | 69 | [Sqrt(x)](problems/0069-Sqrtx) | 🟩 Easy | `C++` | 2026-10-03 |
-| 83 | [Remove Duplicates from Sorted List](problems/0083-Remove-Duplicates-from-Sorted-List) | 🟩 Easy | `C++` | 2026-10-02 |
+| 83 | [Remove Duplicates from Sorted List](problems/0083-Remove-Duplicates-from-Sorted-List) | 🟩 Easy | `C++` | 2026-10-05 |
 | 141 | [Linked List Cycle](problems/0141-Linked-List-Cycle) | 🟩 Easy | `C++` | 2026-10-02 |
 | 160 | [Intersection of Two Linked Lists](problems/0160-Intersection-of-Two-Linked-Lists) | 🟩 Easy | `C++` | 2026-10-02 |
 | 203 | [Remove Linked List Elements](problems/0203-Remove-Linked-List-Elements) | 🟩 Easy | `C++` | 2026-10-02 |
