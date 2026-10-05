@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-49%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-17%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-30%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-2%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-50%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-18%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-30%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-2%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -36,17 +36,18 @@
 | 496 | [Next Greater Element I](problems/0496-Next-Greater-Element-I) | 🟩 Easy | `C++` | 2026-10-05 |
 | 155 | [Min Stack](problems/0155-Min-Stack) | 🟧 Medium | `C++` | 2026-10-05 |
 | 83 | [Remove Duplicates from Sorted List](problems/0083-Remove-Duplicates-from-Sorted-List) | 🟩 Easy | `C++` | 2026-10-05 |
+| 20 | [Valid Parentheses](problems/0020-Valid-Parentheses) | 🟩 Easy | `C++` | 2026-10-05 |
 | 1266 | [Minimum Time Visiting All Points](problems/1266-Minimum-Time-Visiting-All-Points) | 🟩 Easy | `C++` | 2026-10-04 |
 | 1200 | [Minimum Absolute Difference](problems/1200-Minimum-Absolute-Difference) | 🟩 Easy | `C++` | 2026-10-04 |
 | 845 | [Longest Mountain in Array](problems/0845-Longest-Mountain-in-Array) | 🟧 Medium | `C++` | 2026-10-04 |
 | 46 | [Permutations](problems/0046-Permutations) | 🟧 Medium | `C++` | 2026-10-04 |
-| 33 | [Search in Rotated Sorted Array](problems/0033-Search-in-Rotated-Sorted-Array) | 🟧 Medium | `C++` | 2026-10-04 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 17 solved</summary>
+<summary><strong>🟩 Easy</strong> — 18 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 20 | [Valid Parentheses](problems/0020-Valid-Parentheses) | 🟩 Easy | `C++` | 2026-10-05 |
 | 21 | [Merge Two Sorted Lists](problems/0021-Merge-Two-Sorted-Lists) | 🟩 Easy | `C++` | 2026-10-02 |
 | 69 | [Sqrt(x)](problems/0069-Sqrtx) | 🟩 Easy | `C++` | 2026-10-03 |
 | 83 | [Remove Duplicates from Sorted List](problems/0083-Remove-Duplicates-from-Sorted-List) | 🟩 Easy | `C++` | 2026-10-05 |
