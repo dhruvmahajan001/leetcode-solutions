@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-56%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-18%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-34%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-57%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-18%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-35%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 901 | [Online Stock Span](problems/0901-Online-Stock-Span) | 🟧 Medium | `C++` | 2026-10-07 |
 | 921 | [Minimum Add to Make Parentheses Valid](problems/0921-Minimum-Add-to-Make-Parentheses-Valid) | 🟧 Medium | `C++` | 2026-10-06 |
 | 856 | [Score of Parentheses](problems/0856-Score-of-Parentheses) | 🟧 Medium | `C++` | 2026-10-06 |
 | 678 | [Valid Parenthesis String](problems/0678-Valid-Parenthesis-String) | 🟧 Medium | `C++` | 2026-10-06 |
@@ -40,7 +41,6 @@
 | 739 | [Daily Temperatures](problems/0739-Daily-Temperatures) | 🟧 Medium | `C++` | 2026-10-05 |
 | 503 | [Next Greater Element II](problems/0503-Next-Greater-Element-II) | 🟧 Medium | `C++` | 2026-10-05 |
 | 496 | [Next Greater Element I](problems/0496-Next-Greater-Element-I) | 🟩 Easy | `C++` | 2026-10-05 |
-| 155 | [Min Stack](problems/0155-Min-Stack) | 🟧 Medium | `C++` | 2026-10-05 |
 
 <details>
 <summary><strong>🟩 Easy</strong> — 18 solved</summary>
@@ -69,7 +69,7 @@
 </details>
 
 <details>
-<summary><strong>🟧 Medium</strong> — 34 solved</summary>
+<summary><strong>🟧 Medium</strong> — 35 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -98,6 +98,7 @@
 | 817 | [Linked List Components](problems/0817-Linked-List-Components) | 🟧 Medium | `C++` | 2026-10-03 |
 | 845 | [Longest Mountain in Array](problems/0845-Longest-Mountain-in-Array) | 🟧 Medium | `C++` | 2026-10-04 |
 | 856 | [Score of Parentheses](problems/0856-Score-of-Parentheses) | 🟧 Medium | `C++` | 2026-10-06 |
+| 901 | [Online Stock Span](problems/0901-Online-Stock-Span) | 🟧 Medium | `C++` | 2026-10-07 |
 | 921 | [Minimum Add to Make Parentheses Valid](problems/0921-Minimum-Add-to-Make-Parentheses-Valid) | 🟧 Medium | `C++` | 2026-10-06 |
 | 1019 | [Next Greater Node In Linked List](problems/1019-Next-Greater-Node-In-Linked-List) | 🟧 Medium | `C++` | 2026-10-03 |
 | 1171 | [Remove Zero Sum Consecutive Nodes from Linked List](problems/1171-Remove-Zero-Sum-Consecutive-Nodes-from-Linked-List) | 🟧 Medium | `C++` | 2026-10-03 |
