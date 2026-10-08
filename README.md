@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-59%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-19%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-36%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-60%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-19%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-37%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -33,6 +33,7 @@
 |:---:|:--------|:----------:|:--------:|:----:|
 | 1021 | [Remove Outermost Parentheses](problems/1021-Remove-Outermost-Parentheses) | 🟩 Easy | `C++` | 2026-10-08 |
 | 456 | [132 Pattern](problems/0456-132-Pattern) | 🟧 Medium | `C++` | 2026-10-08 |
+| 150 | [Evaluate Reverse Polish Notation](problems/0150-Evaluate-Reverse-Polish-Notation) | 🟧 Medium | `C++` | 2026-10-08 |
 | 22 | [Generate Parentheses](problems/0022-Generate-Parentheses) | 🟧 Medium | `C++` | 2026-10-08 |
 | 901 | [Online Stock Span](problems/0901-Online-Stock-Span) | 🟧 Medium | `C++` | 2026-10-07 |
 | 921 | [Minimum Add to Make Parentheses Valid](problems/0921-Minimum-Add-to-Make-Parentheses-Valid) | 🟧 Medium | `C++` | 2026-10-06 |
@@ -40,7 +41,6 @@
 | 678 | [Valid Parenthesis String](problems/0678-Valid-Parenthesis-String) | 🟧 Medium | `C++` | 2026-10-06 |
 | 84 | [Largest Rectangle in Histogram](problems/0084-Largest-Rectangle-in-Histogram) | 🟥 Hard | `C++` | 2026-10-06 |
 | 32 | [Longest Valid Parentheses](problems/0032-Longest-Valid-Parentheses) | 🟥 Hard | `C++` | 2026-10-06 |
-| 739 | [Daily Temperatures](problems/0739-Daily-Temperatures) | 🟧 Medium | `C++` | 2026-10-05 |
 
 <details>
 <summary><strong>🟩 Easy</strong> — 19 solved</summary>
@@ -70,7 +70,7 @@
 </details>
 
 <details>
-<summary><strong>🟧 Medium</strong> — 36 solved</summary>
+<summary><strong>🟧 Medium</strong> — 37 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -88,6 +88,7 @@
 | 143 | [Reorder List](problems/0143-Reorder-List) | 🟧 Medium | `C++` | 2026-10-02 |
 | 147 | [Insertion Sort List](problems/0147-Insertion-Sort-List) | 🟧 Medium | `C++` | 2026-10-02 |
 | 148 | [Sort List](problems/0148-Sort-List) | 🟧 Medium | `C++` | 2026-10-02 |
+| 150 | [Evaluate Reverse Polish Notation](problems/0150-Evaluate-Reverse-Polish-Notation) | 🟧 Medium | `C++` | 2026-10-08 |
 | 155 | [Min Stack](problems/0155-Min-Stack) | 🟧 Medium | `C++` | 2026-10-05 |
 | 237 | [Delete Node in a Linked List](problems/0237-Delete-Node-in-a-Linked-List) | 🟧 Medium | `C++` | 2026-10-02 |
 | 328 | [Odd Even Linked List](problems/0328-Odd-Even-Linked-List) | 🟧 Medium | `C++` | 2026-10-02 |
