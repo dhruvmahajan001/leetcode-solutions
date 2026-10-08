@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-57%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-18%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-35%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-58%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-19%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-35%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 1021 | [Remove Outermost Parentheses](problems/1021-Remove-Outermost-Parentheses) | 🟩 Easy | `C++` | 2026-10-08 |
 | 22 | [Generate Parentheses](problems/0022-Generate-Parentheses) | 🟧 Medium | `C++` | 2026-10-08 |
 | 901 | [Online Stock Span](problems/0901-Online-Stock-Span) | 🟧 Medium | `C++` | 2026-10-07 |
 | 921 | [Minimum Add to Make Parentheses Valid](problems/0921-Minimum-Add-to-Make-Parentheses-Valid) | 🟧 Medium | `C++` | 2026-10-06 |
@@ -40,10 +41,9 @@
 | 32 | [Longest Valid Parentheses](problems/0032-Longest-Valid-Parentheses) | 🟥 Hard | `C++` | 2026-10-06 |
 | 739 | [Daily Temperatures](problems/0739-Daily-Temperatures) | 🟧 Medium | `C++` | 2026-10-05 |
 | 503 | [Next Greater Element II](problems/0503-Next-Greater-Element-II) | 🟧 Medium | `C++` | 2026-10-05 |
-| 496 | [Next Greater Element I](problems/0496-Next-Greater-Element-I) | 🟩 Easy | `C++` | 2026-10-05 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 18 solved</summary>
+<summary><strong>🟩 Easy</strong> — 19 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -60,6 +60,7 @@
 | 704 | [Binary Search](problems/0704-Binary-Search) | 🟩 Easy | `C++` | 2026-10-03 |
 | 705 | [Design HashSet](problems/0705-Design-HashSet) | 🟩 Easy | `C++` | 2026-10-03 |
 | 876 | [Middle of the Linked List](problems/0876-Middle-of-the-Linked-List) | 🟩 Easy | `C++` | 2026-10-02 |
+| 1021 | [Remove Outermost Parentheses](problems/1021-Remove-Outermost-Parentheses) | 🟩 Easy | `C++` | 2026-10-08 |
 | 1200 | [Minimum Absolute Difference](problems/1200-Minimum-Absolute-Difference) | 🟩 Easy | `C++` | 2026-10-04 |
 | 1266 | [Minimum Time Visiting All Points](problems/1266-Minimum-Time-Visiting-All-Points) | 🟩 Easy | `C++` | 2026-10-04 |
 | 1290 | [Convert Binary Number in a Linked List to Integer](problems/1290-Convert-Binary-Number-in-a-Linked-List-to-Integer) | 🟩 Easy | `C++` | 2026-10-02 |
