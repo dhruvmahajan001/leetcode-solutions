@@ -31,11 +31,11 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 402 | [Remove K Digits](problems/0402-Remove-K-Digits) | 🟧 Medium | `C++` | 2026-10-10 |
 | 2716 | [Minimize String Length](problems/2716-Minimize-String-Length) | 🟩 Easy | `C++` | 2026-10-08 |
 | 1047 | [Remove All Adjacent Duplicates In String](problems/1047-Remove-All-Adjacent-Duplicates-In-String) | 🟩 Easy | `C++` | 2026-10-08 |
 | 1021 | [Remove Outermost Parentheses](problems/1021-Remove-Outermost-Parentheses) | 🟩 Easy | `C++` | 2026-10-08 |
 | 456 | [132 Pattern](problems/0456-132-Pattern) | 🟧 Medium | `C++` | 2026-10-08 |
-| 402 | [Remove K Digits](problems/0402-Remove-K-Digits) | 🟧 Medium | `C++` | 2026-10-08 |
 | 394 | [Decode String](problems/0394-Decode-String) | 🟧 Medium | `C++` | 2026-10-08 |
 | 150 | [Evaluate Reverse Polish Notation](problems/0150-Evaluate-Reverse-Polish-Notation) | 🟧 Medium | `C++` | 2026-10-08 |
 | 71 | [Simplify Path](problems/0071-Simplify-Path) | 🟧 Medium | `C++` | 2026-10-08 |
@@ -96,7 +96,7 @@
 | 237 | [Delete Node in a Linked List](problems/0237-Delete-Node-in-a-Linked-List) | 🟧 Medium | `C++` | 2026-10-02 |
 | 328 | [Odd Even Linked List](problems/0328-Odd-Even-Linked-List) | 🟧 Medium | `C++` | 2026-10-02 |
 | 394 | [Decode String](problems/0394-Decode-String) | 🟧 Medium | `C++` | 2026-10-08 |
-| 402 | [Remove K Digits](problems/0402-Remove-K-Digits) | 🟧 Medium | `C++` | 2026-10-08 |
+| 402 | [Remove K Digits](problems/0402-Remove-K-Digits) | 🟧 Medium | `C++` | 2026-10-10 |
 | 456 | [132 Pattern](problems/0456-132-Pattern) | 🟧 Medium | `C++` | 2026-10-08 |
 | 503 | [Next Greater Element II](problems/0503-Next-Greater-Element-II) | 🟧 Medium | `C++` | 2026-10-05 |
 | 678 | [Valid Parenthesis String](problems/0678-Valid-Parenthesis-String) | 🟧 Medium | `C++` | 2026-10-06 |
