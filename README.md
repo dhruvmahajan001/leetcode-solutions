@@ -92,7 +92,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
-| 2 | [Add Two Numbers](problems/0002-Add-Two-Numbers) | 🟧 Medium | `C++` | 2026-10-02 |
+| 2 | [Add Two Numbers](problems/0002-Add-Two-Numbers) | 🟧 Medium | `C++` | 2026-10-11 |
 | 19 | [Remove Nth Node From End of List](problems/0019-Remove-Nth-Node-From-End-of-List) | 🟧 Medium | `C++` | 2026-10-02 |
 | 22 | [Generate Parentheses](problems/0022-Generate-Parentheses) | 🟧 Medium | `C++` | 2026-10-08 |
 | 24 | [Swap Nodes in Pairs](problems/0024-Swap-Nodes-in-Pairs) | 🟧 Medium | `C++` | 2026-10-02 |
