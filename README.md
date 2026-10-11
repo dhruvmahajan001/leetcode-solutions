@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-81%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-34%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-43%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-82%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-35%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-43%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -32,6 +32,7 @@
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
 | 3875 | [Construct Uniform Parity Array I](problems/3875-Construct-Uniform-Parity-Array-I) | 🟩 Easy | `C++` | 2026-10-11 |
+| 2769 | [Find the Maximum Achievable Number](problems/2769-Find-the-Maximum-Achievable-Number) | 🟩 Easy | `C++` | 2026-10-11 |
 | 2652 | [Sum Multiples](problems/2652-Sum-Multiples) | 🟩 Easy | `C++` | 2026-10-11 |
 | 2520 | [Count the Digits That Divide a Number](problems/2520-Count-the-Digits-That-Divide-a-Number) | 🟩 Easy | `C++` | 2026-10-11 |
 | 2396 | [Strictly Palindromic Number](problems/2396-Strictly-Palindromic-Number) | 🟧 Medium | `C++` | 2026-10-11 |
@@ -40,10 +41,9 @@
 | 1518 | [Water Bottles](problems/1518-Water-Bottles) | 🟩 Easy | `C++` | 2026-10-11 |
 | 1025 | [Divisor Game](problems/1025-Divisor-Game) | 🟩 Easy | `C++` | 2026-10-11 |
 | 877 | [Stone Game](problems/0877-Stone-Game) | 🟧 Medium | `C++` | 2026-10-11 |
-| 441 | [Arranging Coins](problems/0441-Arranging-Coins) | 🟩 Easy | `C++` | 2026-10-11 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 34 solved</summary>
+<summary><strong>🟩 Easy</strong> — 35 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -80,6 +80,7 @@
 | 2520 | [Count the Digits That Divide a Number](problems/2520-Count-the-Digits-That-Divide-a-Number) | 🟩 Easy | `C++` | 2026-10-11 |
 | 2652 | [Sum Multiples](problems/2652-Sum-Multiples) | 🟩 Easy | `C++` | 2026-10-11 |
 | 2716 | [Minimize String Length](problems/2716-Minimize-String-Length) | 🟩 Easy | `C++` | 2026-10-08 |
+| 2769 | [Find the Maximum Achievable Number](problems/2769-Find-the-Maximum-Achievable-Number) | 🟩 Easy | `C++` | 2026-10-11 |
 | 3875 | [Construct Uniform Parity Array I](problems/3875-Construct-Uniform-Parity-Array-I) | 🟩 Easy | `C++` | 2026-10-11 |
 
 </details>
