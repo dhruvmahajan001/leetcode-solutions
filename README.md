@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-68%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-22%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-42%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-69%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-22%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-43%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -32,6 +32,7 @@
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
 | 3875 | [Construct Uniform Parity Array I](problems/3875-Construct-Uniform-Parity-Array-I) | 🟩 Easy | `C++` | 2026-10-11 |
+| 2396 | [Strictly Palindromic Number](problems/2396-Strictly-Palindromic-Number) | 🟧 Medium | `C++` | 2026-10-11 |
 | 877 | [Stone Game](problems/0877-Stone-Game) | 🟧 Medium | `C++` | 2026-10-11 |
 | 735 | [Asteroid Collision](problems/0735-Asteroid-Collision) | 🟧 Medium | `C++` | 2026-10-10 |
 | 402 | [Remove K Digits](problems/0402-Remove-K-Digits) | 🟧 Medium | `C++` | 2026-10-10 |
@@ -40,7 +41,6 @@
 | 1021 | [Remove Outermost Parentheses](problems/1021-Remove-Outermost-Parentheses) | 🟩 Easy | `C++` | 2026-10-08 |
 | 456 | [132 Pattern](problems/0456-132-Pattern) | 🟧 Medium | `C++` | 2026-10-08 |
 | 394 | [Decode String](problems/0394-Decode-String) | 🟧 Medium | `C++` | 2026-10-08 |
-| 150 | [Evaluate Reverse Polish Notation](problems/0150-Evaluate-Reverse-Polish-Notation) | 🟧 Medium | `C++` | 2026-10-08 |
 
 <details>
 <summary><strong>🟩 Easy</strong> — 22 solved</summary>
@@ -73,7 +73,7 @@
 </details>
 
 <details>
-<summary><strong>🟧 Medium</strong> — 42 solved</summary>
+<summary><strong>🟧 Medium</strong> — 43 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -118,6 +118,7 @@
 | 2095 | [Delete the Middle Node of a Linked List](problems/2095-Delete-the-Middle-Node-of-a-Linked-List) | 🟧 Medium | `C++` | 2026-10-02 |
 | 2130 | [Maximum Twin Sum of a Linked List](problems/2130-Maximum-Twin-Sum-of-a-Linked-List) | 🟧 Medium | `C++` | 2026-10-03 |
 | 2181 | [Merge Nodes in Between Zeros](problems/2181-Merge-Nodes-in-Between-Zeros) | 🟧 Medium | `C++` | 2026-10-03 |
+| 2396 | [Strictly Palindromic Number](problems/2396-Strictly-Palindromic-Number) | 🟧 Medium | `C++` | 2026-10-11 |
 | 2487 | [Remove Nodes From Linked List](problems/2487-Remove-Nodes-From-Linked-List) | 🟧 Medium | `C++` | 2026-10-02 |
 
 </details>
