@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-83%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-36%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-43%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-84%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-37%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-43%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -43,12 +43,13 @@
 | 1025 | [Divisor Game](problems/1025-Divisor-Game) | 🟩 Easy | `C++` | 2026-10-11 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 36 solved</summary>
+<summary><strong>🟩 Easy</strong> — 37 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
 | 20 | [Valid Parentheses](problems/0020-Valid-Parentheses) | 🟩 Easy | `C++` | 2026-10-05 |
 | 21 | [Merge Two Sorted Lists](problems/0021-Merge-Two-Sorted-Lists) | 🟩 Easy | `C++` | 2026-10-02 |
+| 28 | [Find the Index of the First Occurrence in a String](problems/0028-Find-the-Index-of-the-First-Occurrence-in-a-String) | 🟩 Easy | `C++` | 2026-10-11 |
 | 69 | [Sqrt(x)](problems/0069-Sqrtx) | 🟩 Easy | `C++` | 2026-10-03 |
 | 83 | [Remove Duplicates from Sorted List](problems/0083-Remove-Duplicates-from-Sorted-List) | 🟩 Easy | `C++` | 2026-10-05 |
 | 141 | [Linked List Cycle](problems/0141-Linked-List-Cycle) | 🟩 Easy | `C++` | 2026-10-02 |
