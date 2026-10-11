@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-73%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-26%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-43%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-74%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-27%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-43%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -34,16 +34,16 @@
 | 3875 | [Construct Uniform Parity Array I](problems/3875-Construct-Uniform-Parity-Array-I) | 🟩 Easy | `C++` | 2026-10-11 |
 | 2396 | [Strictly Palindromic Number](problems/2396-Strictly-Palindromic-Number) | 🟧 Medium | `C++` | 2026-10-11 |
 | 877 | [Stone Game](problems/0877-Stone-Game) | 🟧 Medium | `C++` | 2026-10-11 |
+| 441 | [Arranging Coins](problems/0441-Arranging-Coins) | 🟩 Easy | `C++` | 2026-10-11 |
 | 367 | [Valid Perfect Square](problems/0367-Valid-Perfect-Square) | 🟩 Easy | `C++` | 2026-10-11 |
 | 342 | [Power of Four](problems/0342-Power-of-Four) | 🟩 Easy | `C++` | 2026-10-11 |
 | 326 | [Power of Three](problems/0326-Power-of-Three) | 🟩 Easy | `C++` | 2026-10-11 |
 | 258 | [Add Digits](problems/0258-Add-Digits) | 🟩 Easy | `C++` | 2026-10-11 |
 | 735 | [Asteroid Collision](problems/0735-Asteroid-Collision) | 🟧 Medium | `C++` | 2026-10-10 |
 | 402 | [Remove K Digits](problems/0402-Remove-K-Digits) | 🟧 Medium | `C++` | 2026-10-10 |
-| 2716 | [Minimize String Length](problems/2716-Minimize-String-Length) | 🟩 Easy | `C++` | 2026-10-08 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 26 solved</summary>
+<summary><strong>🟩 Easy</strong> — 27 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -60,6 +60,7 @@
 | 326 | [Power of Three](problems/0326-Power-of-Three) | 🟩 Easy | `C++` | 2026-10-11 |
 | 342 | [Power of Four](problems/0342-Power-of-Four) | 🟩 Easy | `C++` | 2026-10-11 |
 | 367 | [Valid Perfect Square](problems/0367-Valid-Perfect-Square) | 🟩 Easy | `C++` | 2026-10-11 |
+| 441 | [Arranging Coins](problems/0441-Arranging-Coins) | 🟩 Easy | `C++` | 2026-10-11 |
 | 496 | [Next Greater Element I](problems/0496-Next-Greater-Element-I) | 🟩 Easy | `C++` | 2026-10-05 |
 | 704 | [Binary Search](problems/0704-Binary-Search) | 🟩 Easy | `C++` | 2026-10-03 |
 | 705 | [Design HashSet](problems/0705-Design-HashSet) | 🟩 Easy | `C++` | 2026-10-03 |
