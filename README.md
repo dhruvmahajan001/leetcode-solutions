@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-66%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-21%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-41%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-67%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-22%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-41%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 3875 | [Construct Uniform Parity Array I](problems/3875-Construct-Uniform-Parity-Array-I) | 🟩 Easy | `C++` | 2026-10-11 |
 | 735 | [Asteroid Collision](problems/0735-Asteroid-Collision) | 🟧 Medium | `C++` | 2026-10-10 |
 | 402 | [Remove K Digits](problems/0402-Remove-K-Digits) | 🟧 Medium | `C++` | 2026-10-10 |
 | 2716 | [Minimize String Length](problems/2716-Minimize-String-Length) | 🟩 Easy | `C++` | 2026-10-08 |
@@ -40,10 +41,9 @@
 | 394 | [Decode String](problems/0394-Decode-String) | 🟧 Medium | `C++` | 2026-10-08 |
 | 150 | [Evaluate Reverse Polish Notation](problems/0150-Evaluate-Reverse-Polish-Notation) | 🟧 Medium | `C++` | 2026-10-08 |
 | 71 | [Simplify Path](problems/0071-Simplify-Path) | 🟧 Medium | `C++` | 2026-10-08 |
-| 22 | [Generate Parentheses](problems/0022-Generate-Parentheses) | 🟧 Medium | `C++` | 2026-10-08 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 21 solved</summary>
+<summary><strong>🟩 Easy</strong> — 22 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -68,6 +68,7 @@
 | 1512 | [Number of Good Pairs](problems/1512-Number-of-Good-Pairs) | 🟩 Easy | `C++` | 2026-10-03 |
 | 1572 | [Matrix Diagonal Sum](problems/1572-Matrix-Diagonal-Sum) | 🟩 Easy | `C++` | 2026-10-03 |
 | 2716 | [Minimize String Length](problems/2716-Minimize-String-Length) | 🟩 Easy | `C++` | 2026-10-08 |
+| 3875 | [Construct Uniform Parity Array I](problems/3875-Construct-Uniform-Parity-Array-I) | 🟩 Easy | `C++` | 2026-10-11 |
 
 </details>
 
