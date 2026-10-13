@@ -32,6 +32,7 @@
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
 | 735 | [Asteroid Collision](problems/0735-Asteroid-Collision) | 🟧 Medium | `C++` | 2026-10-13 |
+| 402 | [Remove K Digits](problems/0402-Remove-K-Digits) | 🟧 Medium | `C++` | 2026-10-13 |
 | 3174 | [Clear Digits](problems/3174-Clear-Digits) | 🟩 Easy | `C++` | 2026-10-12 |
 | 3875 | [Construct Uniform Parity Array I](problems/3875-Construct-Uniform-Parity-Array-I) | 🟩 Easy | `C++` | 2026-10-11 |
 | 2778 | [Sum of Squares of Special Elements ](problems/2778-Sum-of-Squares-of-Special-Elements) | 🟩 Easy | `C++` | 2026-10-11 |
@@ -40,7 +41,6 @@
 | 2520 | [Count the Digits That Divide a Number](problems/2520-Count-the-Digits-That-Divide-a-Number) | 🟩 Easy | `C++` | 2026-10-11 |
 | 2396 | [Strictly Palindromic Number](problems/2396-Strictly-Palindromic-Number) | 🟧 Medium | `C++` | 2026-10-11 |
 | 2119 | [A Number After a Double Reversal](problems/2119-A-Number-After-a-Double-Reversal) | 🟩 Easy | `C++` | 2026-10-11 |
-| 1688 | [Count of Matches in Tournament](problems/1688-Count-of-Matches-in-Tournament) | 🟩 Easy | `C++` | 2026-10-11 |
 
 <details>
 <summary><strong>🟩 Easy</strong> — 38 solved</summary>
@@ -113,7 +113,7 @@
 | 237 | [Delete Node in a Linked List](problems/0237-Delete-Node-in-a-Linked-List) | 🟧 Medium | `C++` | 2026-10-02 |
 | 328 | [Odd Even Linked List](problems/0328-Odd-Even-Linked-List) | 🟧 Medium | `C++` | 2026-10-02 |
 | 394 | [Decode String](problems/0394-Decode-String) | 🟧 Medium | `C++` | 2026-10-08 |
-| 402 | [Remove K Digits](problems/0402-Remove-K-Digits) | 🟧 Medium | `C++` | 2026-10-10 |
+| 402 | [Remove K Digits](problems/0402-Remove-K-Digits) | 🟧 Medium | `C++` | 2026-10-13 |
 | 456 | [132 Pattern](problems/0456-132-Pattern) | 🟧 Medium | `C++` | 2026-10-08 |
 | 503 | [Next Greater Element II](problems/0503-Next-Greater-Element-II) | 🟧 Medium | `C++` | 2026-10-05 |
 | 678 | [Valid Parenthesis String](problems/0678-Valid-Parenthesis-String) | 🟧 Medium | `C++` | 2026-10-06 |
