@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 735 | [Asteroid Collision](problems/0735-Asteroid-Collision) | 🟧 Medium | `C++` | 2026-10-13 |
 | 3174 | [Clear Digits](problems/3174-Clear-Digits) | 🟩 Easy | `C++` | 2026-10-12 |
 | 3875 | [Construct Uniform Parity Array I](problems/3875-Construct-Uniform-Parity-Array-I) | 🟩 Easy | `C++` | 2026-10-11 |
 | 2778 | [Sum of Squares of Special Elements ](problems/2778-Sum-of-Squares-of-Special-Elements) | 🟩 Easy | `C++` | 2026-10-11 |
@@ -40,7 +41,6 @@
 | 2396 | [Strictly Palindromic Number](problems/2396-Strictly-Palindromic-Number) | 🟧 Medium | `C++` | 2026-10-11 |
 | 2119 | [A Number After a Double Reversal](problems/2119-A-Number-After-a-Double-Reversal) | 🟩 Easy | `C++` | 2026-10-11 |
 | 1688 | [Count of Matches in Tournament](problems/1688-Count-of-Matches-in-Tournament) | 🟩 Easy | `C++` | 2026-10-11 |
-| 1518 | [Water Bottles](problems/1518-Water-Bottles) | 🟩 Easy | `C++` | 2026-10-11 |
 
 <details>
 <summary><strong>🟩 Easy</strong> — 38 solved</summary>
@@ -119,7 +119,7 @@
 | 678 | [Valid Parenthesis String](problems/0678-Valid-Parenthesis-String) | 🟧 Medium | `C++` | 2026-10-06 |
 | 707 | [Design Linked List](problems/0707-Design-Linked-List) | 🟧 Medium | `C++` | 2026-10-03 |
 | 725 | [Split Linked List in Parts](problems/0725-Split-Linked-List-in-Parts) | 🟧 Medium | `C++` | 2026-10-03 |
-| 735 | [Asteroid Collision](problems/0735-Asteroid-Collision) | 🟧 Medium | `C++` | 2026-10-10 |
+| 735 | [Asteroid Collision](problems/0735-Asteroid-Collision) | 🟧 Medium | `C++` | 2026-10-13 |
 | 739 | [Daily Temperatures](problems/0739-Daily-Temperatures) | 🟧 Medium | `C++` | 2026-10-05 |
 | 817 | [Linked List Components](problems/0817-Linked-List-Components) | 🟧 Medium | `C++` | 2026-10-03 |
 | 845 | [Longest Mountain in Array](problems/0845-Longest-Mountain-in-Array) | 🟧 Medium | `C++` | 2026-10-04 |
