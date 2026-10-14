@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 2487 | [Remove Nodes From Linked List](problems/2487-Remove-Nodes-From-Linked-List) | 🟧 Medium | `C++` | 2026-10-14 |
 | 735 | [Asteroid Collision](problems/0735-Asteroid-Collision) | 🟧 Medium | `C++` | 2026-10-13 |
 | 402 | [Remove K Digits](problems/0402-Remove-K-Digits) | 🟧 Medium | `C++` | 2026-10-13 |
 | 3174 | [Clear Digits](problems/3174-Clear-Digits) | 🟩 Easy | `C++` | 2026-10-12 |
@@ -40,7 +41,6 @@
 | 2652 | [Sum Multiples](problems/2652-Sum-Multiples) | 🟩 Easy | `C++` | 2026-10-11 |
 | 2520 | [Count the Digits That Divide a Number](problems/2520-Count-the-Digits-That-Divide-a-Number) | 🟩 Easy | `C++` | 2026-10-11 |
 | 2396 | [Strictly Palindromic Number](problems/2396-Strictly-Palindromic-Number) | 🟧 Medium | `C++` | 2026-10-11 |
-| 2119 | [A Number After a Double Reversal](problems/2119-A-Number-After-a-Double-Reversal) | 🟩 Easy | `C++` | 2026-10-11 |
 
 <details>
 <summary><strong>🟩 Easy</strong> — 38 solved</summary>
@@ -135,7 +135,7 @@
 | 2130 | [Maximum Twin Sum of a Linked List](problems/2130-Maximum-Twin-Sum-of-a-Linked-List) | 🟧 Medium | `C++` | 2026-10-03 |
 | 2181 | [Merge Nodes in Between Zeros](problems/2181-Merge-Nodes-in-Between-Zeros) | 🟧 Medium | `C++` | 2026-10-03 |
 | 2396 | [Strictly Palindromic Number](problems/2396-Strictly-Palindromic-Number) | 🟧 Medium | `C++` | 2026-10-11 |
-| 2487 | [Remove Nodes From Linked List](problems/2487-Remove-Nodes-From-Linked-List) | 🟧 Medium | `C++` | 2026-10-02 |
+| 2487 | [Remove Nodes From Linked List](problems/2487-Remove-Nodes-From-Linked-List) | 🟧 Medium | `C++` | 2026-10-14 |
 
 </details>
 
