@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-88%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-39%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-45%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-89%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-40%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-45%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 2235 | [Add Two Integers](problems/2235-Add-Two-Integers) | 🟩 Easy | `C++` | 2026-10-19 |
 | 907 | [Sum of Subarray Minimums](problems/0907-Sum-of-Subarray-Minimums) | 🟧 Medium | `C++` | 2026-10-18 |
 | 1249 | [Minimum Remove to Make Valid Parentheses](problems/1249-Minimum-Remove-to-Make-Valid-Parentheses) | 🟧 Medium | `C++` | 2026-10-16 |
 | 232 | [Implement Queue using Stacks](problems/0232-Implement-Queue-using-Stacks) | 🟩 Easy | `C++` | 2026-10-15 |
@@ -40,10 +41,9 @@
 | 3174 | [Clear Digits](problems/3174-Clear-Digits) | 🟩 Easy | `C++` | 2026-10-12 |
 | 3875 | [Construct Uniform Parity Array I](problems/3875-Construct-Uniform-Parity-Array-I) | 🟩 Easy | `C++` | 2026-10-11 |
 | 2778 | [Sum of Squares of Special Elements ](problems/2778-Sum-of-Squares-of-Special-Elements) | 🟩 Easy | `C++` | 2026-10-11 |
-| 2769 | [Find the Maximum Achievable Number](problems/2769-Find-the-Maximum-Achievable-Number) | 🟩 Easy | `C++` | 2026-10-11 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 39 solved</summary>
+<summary><strong>🟩 Easy</strong> — 40 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -79,6 +79,7 @@
 | 1572 | [Matrix Diagonal Sum](problems/1572-Matrix-Diagonal-Sum) | 🟩 Easy | `C++` | 2026-10-03 |
 | 1688 | [Count of Matches in Tournament](problems/1688-Count-of-Matches-in-Tournament) | 🟩 Easy | `C++` | 2026-10-11 |
 | 2119 | [A Number After a Double Reversal](problems/2119-A-Number-After-a-Double-Reversal) | 🟩 Easy | `C++` | 2026-10-11 |
+| 2235 | [Add Two Integers](problems/2235-Add-Two-Integers) | 🟩 Easy | `C++` | 2026-10-19 |
 | 2520 | [Count the Digits That Divide a Number](problems/2520-Count-the-Digits-That-Divide-a-Number) | 🟩 Easy | `C++` | 2026-10-11 |
 | 2652 | [Sum Multiples](problems/2652-Sum-Multiples) | 🟩 Easy | `C++` | 2026-10-11 |
 | 2716 | [Minimize String Length](problems/2716-Minimize-String-Length) | 🟩 Easy | `C++` | 2026-10-08 |
