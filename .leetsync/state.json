@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1792489998292,
+  "updatedAt": 1792490295654,
   "devices": {
     "ead38585-6fbb-49c6-951e-f21d4ca94703": {
-      "lastSeen": 1792489994509
+      "lastSeen": 1792490294503
     },
     "5b04c61d-0a85-472d-8f62-d7928111af95": {
       "lastSeen": 1791534261048
@@ -28,7 +28,7 @@
         "Recursion"
       ],
       "title": "Add Two Numbers",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "19": {
       "attempts": 1,
@@ -47,7 +47,7 @@
         "Two Pointers"
       ],
       "title": "Remove Nth Node From End of List",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "20": {
       "attempts": 1,
@@ -67,7 +67,7 @@
         "Bracket Sequences"
       ],
       "title": "Valid Parentheses",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "21": {
       "attempts": 1,
@@ -86,7 +86,7 @@
         "Recursion"
       ],
       "title": "Merge Two Sorted Lists",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "22": {
       "attempts": 3,
@@ -107,7 +107,7 @@
         "Bracket Sequences"
       ],
       "title": "Generate Parentheses",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "23": {
       "attempts": 6,
@@ -129,7 +129,7 @@
         "Tournament Sort"
       ],
       "title": "Merge k Sorted Lists",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "24": {
       "attempts": 1,
@@ -148,7 +148,7 @@
         "Recursion"
       ],
       "title": "Swap Nodes in Pairs",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "25": {
       "attempts": 4,
@@ -167,7 +167,7 @@
         "Recursion"
       ],
       "title": "Reverse Nodes in k-Group",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "28": {
       "attempts": 1,
@@ -190,7 +190,7 @@
         "Boyer–Moore String-Search Algorithm"
       ],
       "title": "Find the Index of the First Occurrence in a String",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "32": {
       "attempts": 5,
@@ -211,7 +211,7 @@
         "Bracket Sequences"
       ],
       "title": "Longest Valid Parentheses",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "33": {
       "attempts": 2,
@@ -230,7 +230,7 @@
         "Binary Search"
       ],
       "title": "Search in Rotated Sorted Array",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "46": {
       "attempts": 2,
@@ -249,7 +249,7 @@
         "Backtracking"
       ],
       "title": "Permutations",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "61": {
       "attempts": 1,
@@ -268,7 +268,7 @@
         "Two Pointers"
       ],
       "title": "Rotate List",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "69": {
       "attempts": 1,
@@ -288,7 +288,7 @@
         "Newton's Method"
       ],
       "title": "Sqrt(x)",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "71": {
       "attempts": 1,
@@ -307,7 +307,7 @@
         "Stack"
       ],
       "title": "Simplify Path",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "82": {
       "attempts": 1,
@@ -326,7 +326,7 @@
         "Two Pointers"
       ],
       "title": "Remove Duplicates from Sorted List II",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "83": {
       "attempts": 3,
@@ -344,7 +344,7 @@
         "Linked List"
       ],
       "title": "Remove Duplicates from Sorted List",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "84": {
       "attempts": 3,
@@ -365,7 +365,7 @@
         "Range Minimum/Maximum Query"
       ],
       "title": "Largest Rectangle in Histogram",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "86": {
       "attempts": 1,
@@ -384,7 +384,7 @@
         "Two Pointers"
       ],
       "title": "Partition List",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "92": {
       "attempts": 1,
@@ -402,7 +402,7 @@
         "Linked List"
       ],
       "title": "Reverse Linked List II",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "141": {
       "attempts": 1,
@@ -423,7 +423,7 @@
         "Floyd's Cycle Finding Algorithm"
       ],
       "title": "Linked List Cycle",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "142": {
       "attempts": 1,
@@ -444,7 +444,7 @@
         "Floyd's Cycle Finding Algorithm"
       ],
       "title": "Linked List Cycle II",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "143": {
       "attempts": 1,
@@ -465,7 +465,7 @@
         "Recursion"
       ],
       "title": "Reorder List",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "147": {
       "attempts": 1,
@@ -484,7 +484,7 @@
         "Sorting"
       ],
       "title": "Insertion Sort List",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "148": {
       "attempts": 1,
@@ -506,7 +506,7 @@
         "Merge Sort"
       ],
       "title": "Sort List",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "150": {
       "attempts": 1,
@@ -526,7 +526,7 @@
         "Stack"
       ],
       "title": "Evaluate Reverse Polish Notation",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "155": {
       "attempts": 2,
@@ -545,7 +545,7 @@
         "Design"
       ],
       "title": "Min Stack",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "160": {
       "attempts": 1,
@@ -565,7 +565,7 @@
         "Two Pointers"
       ],
       "title": "Intersection of Two Linked Lists",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "203": {
       "attempts": 1,
@@ -584,7 +584,7 @@
         "Recursion"
       ],
       "title": "Remove Linked List Elements",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "206": {
       "attempts": 1,
@@ -603,7 +603,7 @@
         "Recursion"
       ],
       "title": "Reverse Linked List",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "232": {
       "attempts": 1,
@@ -623,7 +623,7 @@
         "Queue"
       ],
       "title": "Implement Queue using Stacks",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "234": {
       "attempts": 1,
@@ -644,7 +644,7 @@
         "Recursion"
       ],
       "title": "Palindrome Linked List",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "237": {
       "attempts": 1,
@@ -662,7 +662,7 @@
         "Linked List"
       ],
       "title": "Delete Node in a Linked List",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "258": {
       "attempts": 1,
@@ -682,7 +682,7 @@
         "Number Theory"
       ],
       "title": "Add Digits",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "292": {
       "attempts": 1,
@@ -705,7 +705,7 @@
         "Impartial Game"
       ],
       "title": "Nim Game",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "326": {
       "attempts": 1,
@@ -724,7 +724,7 @@
         "Recursion"
       ],
       "title": "Power of Three",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "328": {
       "attempts": 2,
@@ -742,7 +742,7 @@
         "Linked List"
       ],
       "title": "Odd Even Linked List",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "342": {
       "attempts": 1,
@@ -762,7 +762,7 @@
         "Recursion"
       ],
       "title": "Power of Four",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "367": {
       "attempts": 2,
@@ -781,7 +781,7 @@
         "Binary Search"
       ],
       "title": "Valid Perfect Square",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "394": {
       "attempts": 1,
@@ -801,7 +801,7 @@
         "Recursion"
       ],
       "title": "Decode String",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "402": {
       "attempts": 3,
@@ -822,7 +822,7 @@
         "Monotonic Stack"
       ],
       "title": "Remove K Digits",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "441": {
       "attempts": 1,
@@ -841,7 +841,7 @@
         "Binary Search"
       ],
       "title": "Arranging Coins",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "456": {
       "attempts": 1,
@@ -863,7 +863,7 @@
         "Ordered Set"
       ],
       "title": "132 Pattern",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "496": {
       "attempts": 5,
@@ -884,7 +884,7 @@
         "Monotonic Stack"
       ],
       "title": "Next Greater Element I",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "503": {
       "attempts": 1,
@@ -904,7 +904,7 @@
         "Monotonic Stack"
       ],
       "title": "Next Greater Element II",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "678": {
       "attempts": 2,
@@ -926,7 +926,7 @@
         "Bracket Sequences"
       ],
       "title": "Valid Parenthesis String",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "704": {
       "attempts": 4,
@@ -945,7 +945,7 @@
         "Binary Search"
       ],
       "title": "Binary Search",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "705": {
       "attempts": 1,
@@ -967,7 +967,7 @@
         "Hash Function"
       ],
       "title": "Design HashSet",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "707": {
       "attempts": 1,
@@ -986,7 +986,7 @@
         "Design"
       ],
       "title": "Design Linked List",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "725": {
       "attempts": 1,
@@ -1004,7 +1004,7 @@
         "Linked List"
       ],
       "title": "Split Linked List in Parts",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "735": {
       "attempts": 2,
@@ -1024,7 +1024,7 @@
         "Simulation"
       ],
       "title": "Asteroid Collision",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "739": {
       "attempts": 1,
@@ -1044,7 +1044,7 @@
         "Monotonic Stack"
       ],
       "title": "Daily Temperatures",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "817": {
       "attempts": 1,
@@ -1064,7 +1064,7 @@
         "Linked List"
       ],
       "title": "Linked List Components",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "845": {
       "attempts": 1,
@@ -1085,7 +1085,7 @@
         "Enumeration"
       ],
       "title": "Longest Mountain in Array",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "856": {
       "attempts": 3,
@@ -1105,7 +1105,7 @@
         "Bracket Sequences"
       ],
       "title": "Score of Parentheses",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "876": {
       "attempts": 2,
@@ -1124,7 +1124,7 @@
         "Two Pointers"
       ],
       "title": "Middle of the Linked List",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "877": {
       "attempts": 1,
@@ -1147,7 +1147,7 @@
         "Zero-Sum Game"
       ],
       "title": "Stone Game",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "901": {
       "attempts": 4,
@@ -1168,7 +1168,7 @@
         "Data Stream"
       ],
       "title": "Online Stock Span",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "907": {
       "attempts": 2,
@@ -1189,7 +1189,7 @@
         "Monotonic Stack"
       ],
       "title": "Sum of Subarray Minimums",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "921": {
       "attempts": 3,
@@ -1210,7 +1210,7 @@
         "Bracket Sequences"
       ],
       "title": "Minimum Add to Make Parentheses Valid",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "1019": {
       "attempts": 1,
@@ -1231,7 +1231,7 @@
         "Monotonic Stack"
       ],
       "title": "Next Greater Node In Linked List",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "1021": {
       "attempts": 1,
@@ -1251,7 +1251,7 @@
         "Bracket Sequences"
       ],
       "title": "Remove Outermost Parentheses",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "1025": {
       "attempts": 1,
@@ -1273,7 +1273,7 @@
         "Impartial Game"
       ],
       "title": "Divisor Game",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "1047": {
       "attempts": 2,
@@ -1292,7 +1292,7 @@
         "Stack"
       ],
       "title": "Remove All Adjacent Duplicates In String",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "1171": {
       "attempts": 2,
@@ -1311,7 +1311,7 @@
         "Linked List"
       ],
       "title": "Remove Zero Sum Consecutive Nodes from Linked List",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "1200": {
       "attempts": 1,
@@ -1330,7 +1330,7 @@
         "Sorting"
       ],
       "title": "Minimum Absolute Difference",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "1249": {
       "attempts": 1,
@@ -1349,7 +1349,7 @@
         "Stack"
       ],
       "title": "Minimum Remove to Make Valid Parentheses",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "1266": {
       "attempts": 1,
@@ -1369,7 +1369,7 @@
         "Geometry"
       ],
       "title": "Minimum Time Visiting All Points",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "1290": {
       "attempts": 2,
@@ -1388,7 +1388,7 @@
         "Math"
       ],
       "title": "Convert Binary Number in a Linked List to Integer",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "1512": {
       "attempts": 1,
@@ -1409,7 +1409,7 @@
         "Counting"
       ],
       "title": "Number of Good Pairs",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "1518": {
       "attempts": 1,
@@ -1428,7 +1428,7 @@
         "Simulation"
       ],
       "title": "Water Bottles",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "1572": {
       "attempts": 3,
@@ -1447,7 +1447,7 @@
         "Matrix"
       ],
       "title": "Matrix Diagonal Sum",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "1669": {
       "attempts": 1,
@@ -1465,7 +1465,7 @@
         "Linked List"
       ],
       "title": "Merge In Between Linked Lists",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "1688": {
       "attempts": 1,
@@ -1484,7 +1484,7 @@
         "Simulation"
       ],
       "title": "Count of Matches in Tournament",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "1721": {
       "attempts": 1,
@@ -1503,7 +1503,7 @@
         "Two Pointers"
       ],
       "title": "Swapping Nodes in a Linked List",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "2095": {
       "attempts": 1,
@@ -1522,7 +1522,7 @@
         "Two Pointers"
       ],
       "title": "Delete the Middle Node of a Linked List",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "2119": {
       "attempts": 1,
@@ -1540,7 +1540,7 @@
         "Math"
       ],
       "title": "A Number After a Double Reversal",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "2130": {
       "attempts": 3,
@@ -1560,7 +1560,7 @@
         "Stack"
       ],
       "title": "Maximum Twin Sum of a Linked List",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "2181": {
       "attempts": 1,
@@ -1579,7 +1579,7 @@
         "Simulation"
       ],
       "title": "Merge Nodes in Between Zeros",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "2235": {
       "attempts": 1,
@@ -1597,7 +1597,7 @@
         "Math"
       ],
       "title": "Add Two Integers",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "2396": {
       "attempts": 1,
@@ -1617,7 +1617,7 @@
         "Brainteaser"
       ],
       "title": "Strictly Palindromic Number",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "2487": {
       "attempts": 2,
@@ -1638,7 +1638,7 @@
         "Monotonic Stack"
       ],
       "title": "Remove Nodes From Linked List",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "2520": {
       "attempts": 1,
@@ -1656,7 +1656,7 @@
         "Math"
       ],
       "title": "Count the Digits That Divide a Number",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "2652": {
       "attempts": 1,
@@ -1674,7 +1674,7 @@
         "Math"
       ],
       "title": "Sum Multiples",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "2716": {
       "attempts": 1,
@@ -1693,7 +1693,7 @@
         "String"
       ],
       "title": "Minimize String Length",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "2769": {
       "attempts": 1,
@@ -1711,7 +1711,7 @@
         "Math"
       ],
       "title": "Find the Maximum Achievable Number",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "2778": {
       "attempts": 1,
@@ -1730,7 +1730,7 @@
         "Enumeration"
       ],
       "title": "Sum of Squares of Special Elements ",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "3174": {
       "attempts": 1,
@@ -1750,7 +1750,7 @@
         "Simulation"
       ],
       "title": "Clear Digits",
-      "at": 1792489994509
+      "at": 1792490294503
     },
     "3875": {
       "attempts": 1,
@@ -1769,7 +1769,7 @@
         "Math"
       ],
       "title": "Construct Uniform Parity Array I",
-      "at": 1792489994509
+      "at": 1792490294503
     }
   },
   "achievements": {
@@ -1786,43 +1786,43 @@
   },
   "sheets": {
     "striver-a2z-sheet|Introduction to Singly LinkedList": {
-      "at": 1792489994509,
+      "at": 1792490294503,
       "done": true
     },
     "striver-a2z-sheet|Insertion at the head of Linked List": {
-      "at": 1792489994509,
+      "at": 1792490294503,
       "done": true
     },
     "striver-a2z-sheet|Deletion of the head of LL": {
-      "at": 1792489994509,
+      "at": 1792490294503,
       "done": true
     },
     "striver-a2z-sheet|Find the length of the Linked List": {
-      "at": 1792489994509,
+      "at": 1792490294503,
       "done": true
     },
     "striver-a2z-sheet|Search in Linked List": {
-      "at": 1792489994509,
+      "at": 1792490294503,
       "done": true
     },
     "striver-a2z-sheet|Middle of a LinkedList [TortoiseHare Method]": {
-      "at": 1792489994509,
+      "at": 1792490294503,
       "done": true
     },
     "striver-a2z-sheet|Length of loop in LL": {
-      "at": 1792489994509,
+      "at": 1792490294503,
       "done": true
     },
     "striver-a2z-sheet|Add one to a number represented by LL": {
-      "at": 1792489994509,
+      "at": 1792490294503,
       "done": true
     },
     "striver-a2z-sheet|Flattening of LL": {
-      "at": 1792489994509,
+      "at": 1792490294503,
       "done": true
     },
     "striver-a2z-sheet|Sort a Linked List of 0's 1's and 2's": {
-      "at": 1792489994509,
+      "at": 1792490294503,
       "done": true
     }
   },
