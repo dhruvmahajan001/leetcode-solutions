@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-90%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-40%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-46%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-91%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-41%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-46%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 2206 | [Divide Array Into Equal Pairs](problems/2206-Divide-Array-Into-Equal-Pairs) | 🟩 Easy | `C++` | 2026-10-20 |
 | 29 | [Divide Two Integers](problems/0029-Divide-Two-Integers) | 🟧 Medium | `C++` | 2026-10-20 |
 | 2235 | [Add Two Integers](problems/2235-Add-Two-Integers) | 🟩 Easy | `C++` | 2026-10-19 |
 | 907 | [Sum of Subarray Minimums](problems/0907-Sum-of-Subarray-Minimums) | 🟧 Medium | `C++` | 2026-10-18 |
@@ -40,10 +41,9 @@
 | 735 | [Asteroid Collision](problems/0735-Asteroid-Collision) | 🟧 Medium | `C++` | 2026-10-13 |
 | 402 | [Remove K Digits](problems/0402-Remove-K-Digits) | 🟧 Medium | `C++` | 2026-10-13 |
 | 3174 | [Clear Digits](problems/3174-Clear-Digits) | 🟩 Easy | `C++` | 2026-10-12 |
-| 3875 | [Construct Uniform Parity Array I](problems/3875-Construct-Uniform-Parity-Array-I) | 🟩 Easy | `C++` | 2026-10-11 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 40 solved</summary>
+<summary><strong>🟩 Easy</strong> — 41 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -79,6 +79,7 @@
 | 1572 | [Matrix Diagonal Sum](problems/1572-Matrix-Diagonal-Sum) | 🟩 Easy | `C++` | 2026-10-03 |
 | 1688 | [Count of Matches in Tournament](problems/1688-Count-of-Matches-in-Tournament) | 🟩 Easy | `C++` | 2026-10-11 |
 | 2119 | [A Number After a Double Reversal](problems/2119-A-Number-After-a-Double-Reversal) | 🟩 Easy | `C++` | 2026-10-11 |
+| 2206 | [Divide Array Into Equal Pairs](problems/2206-Divide-Array-Into-Equal-Pairs) | 🟩 Easy | `C++` | 2026-10-20 |
 | 2235 | [Add Two Integers](problems/2235-Add-Two-Integers) | 🟩 Easy | `C++` | 2026-10-19 |
 | 2520 | [Count the Digits That Divide a Number](problems/2520-Count-the-Digits-That-Divide-a-Number) | 🟩 Easy | `C++` | 2026-10-11 |
 | 2652 | [Sum Multiples](problems/2652-Sum-Multiples) | 🟩 Easy | `C++` | 2026-10-11 |
