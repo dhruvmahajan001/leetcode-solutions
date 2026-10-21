@@ -4,7 +4,7 @@
 // Language   : C++
 // Solution   : #2
 // Runtime    : 1 ms (Beats 67%)
-// Memory     : 16.5 MB (Beats 100%)
+// Memory     : 16.7 MB (Beats 87%)
 // Link       : https://leetcode.com/problems/divide-array-into-equal-pairs/
 // ==========================================================
 
