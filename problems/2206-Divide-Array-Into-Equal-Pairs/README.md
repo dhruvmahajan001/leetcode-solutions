@@ -2,7 +2,7 @@
 
 # 2206. Divide Array Into Equal Pairs
 
-![Difficulty](https://img.shields.io/badge/DIFFICULTY-Easy-00b8a3?style=for-the-badge&labelColor=1a1a2e)  ![Language](https://img.shields.io/badge/LANGUAGE-C%2B%2B-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Solutions](https://img.shields.io/badge/SOLUTIONS-1-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Date](https://img.shields.io/badge/DATE-2026--10--20-605d5d?style=for-the-badge&labelColor=1a1a2e)
+![Difficulty](https://img.shields.io/badge/DIFFICULTY-Easy-00b8a3?style=for-the-badge&labelColor=1a1a2e)  ![Language](https://img.shields.io/badge/LANGUAGE-C%2B%2B-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Solutions](https://img.shields.io/badge/SOLUTIONS-2-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Date](https://img.shields.io/badge/DATE-2026--10--21-605d5d?style=for-the-badge&labelColor=1a1a2e)
 
 [![View on LeetCode](https://img.shields.io/badge/View%20on-LeetCode-ffa116?style=flat-square&logo=leetcode&logoColor=ffa116)](https://leetcode.com/problems/divide-array-into-equal-pairs/)
 
@@ -15,20 +15,18 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="panel-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="panel-light.svg">
-  <img alt="Topics: Array, Hash Table, Bit Manipulation, Counting — best runtime 1 ms (Beats 66%), best memory 16.9 MB (Beats 82%)" src="panel-dark.svg">
+  <img alt="Topics: Array, Hash Table, Bit Manipulation, Counting — best runtime 1 ms (Beats 67%), best memory 16.5 MB (Beats 100%)" src="panel-dark.svg">
 </picture>
 
 </div>
-
-> **New personal best** — Runtime improved on this submission.
 
 ### HOW IT WENT
 
 | | |
 |:--|:--|
-| **Attempts** | first try |
-| **Time to solve** | 9 min |
-| **Verdicts** | ✅ Accepted |
+| **Attempts** | 2 before accepted |
+| **Time to solve** | 25 h 43 min |
+| **Verdicts** | ✅ Accepted → ✅ Accepted |
 
 ---
 
@@ -38,11 +36,12 @@ _No notes yet._
 
 ---
 
-### SOLUTIONS (1)
+### SOLUTIONS (2)
 
 | # | File | Language | Date |
 |:-:|------|:--------:|:----:|
-| 1 | [sol1.cpp](./sol1.cpp) | `C++` | 2026-10-20 ← **latest** |
+| 1 | [sol1.cpp](./sol1.cpp) | `C++` | 2026-10-21 |
+| 2 | [sol2.cpp](./sol2.cpp) | `C++` | 2026-10-21 ← **latest** |
 
 ---
 
