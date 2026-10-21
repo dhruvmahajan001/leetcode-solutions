@@ -15,7 +15,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="panel-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="panel-light.svg">
-  <img alt="Topics: Array, Hash Table, Bit Manipulation, Counting — best runtime 1 ms (Beats 67%), best memory 16.5 MB (Beats 100%)" src="panel-dark.svg">
+  <img alt="Topics: Array, Hash Table, Bit Manipulation, Counting — best runtime 1 ms (Beats 67%), best memory 16.7 MB (Beats 87%)" src="panel-dark.svg">
 </picture>
 
 </div>
@@ -24,9 +24,9 @@
 
 | | |
 |:--|:--|
-| **Attempts** | 2 before accepted |
-| **Time to solve** | 25 h 43 min |
-| **Verdicts** | ✅ Accepted → ✅ Accepted |
+| **Attempts** | 3 before accepted |
+| **Time to solve** | 25 h 44 min |
+| **Verdicts** | ✅ Accepted → ✅ Accepted → ✅ Accepted |
 
 ---
 
