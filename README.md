@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-92%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-41%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-47%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-93%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-41%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-48%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -33,6 +33,7 @@
 |:---:|:--------|:----------:|:--------:|:----:|
 | 946 | [Validate Stack Sequences](problems/0946-Validate-Stack-Sequences) | 🟧 Medium | `C++` | 2026-10-22 |
 | 907 | [Sum of Subarray Minimums](problems/0907-Sum-of-Subarray-Minimums) | 🟧 Medium | `C++` | 2026-10-22 |
+| 74 | [Search a 2D Matrix](problems/0074-Search-a-2D-Matrix) | 🟧 Medium | `C++` | 2026-10-22 |
 | 2206 | [Divide Array Into Equal Pairs](problems/2206-Divide-Array-Into-Equal-Pairs) | 🟩 Easy | `C++` | 2026-10-21 |
 | 29 | [Divide Two Integers](problems/0029-Divide-Two-Integers) | 🟧 Medium | `C++` | 2026-10-20 |
 | 2235 | [Add Two Integers](problems/2235-Add-Two-Integers) | 🟩 Easy | `C++` | 2026-10-19 |
@@ -40,7 +41,6 @@
 | 232 | [Implement Queue using Stacks](problems/0232-Implement-Queue-using-Stacks) | 🟩 Easy | `C++` | 2026-10-15 |
 | 2487 | [Remove Nodes From Linked List](problems/2487-Remove-Nodes-From-Linked-List) | 🟧 Medium | `C++` | 2026-10-14 |
 | 735 | [Asteroid Collision](problems/0735-Asteroid-Collision) | 🟧 Medium | `C++` | 2026-10-13 |
-| 402 | [Remove K Digits](problems/0402-Remove-K-Digits) | 🟧 Medium | `C++` | 2026-10-13 |
 
 <details>
 <summary><strong>🟩 Easy</strong> — 41 solved</summary>
@@ -92,7 +92,7 @@
 </details>
 
 <details>
-<summary><strong>🟧 Medium</strong> — 47 solved</summary>
+<summary><strong>🟧 Medium</strong> — 48 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -105,6 +105,7 @@
 | 46 | [Permutations](problems/0046-Permutations) | 🟧 Medium | `C++` | 2026-10-04 |
 | 61 | [Rotate List](problems/0061-Rotate-List) | 🟧 Medium | `C++` | 2026-10-02 |
 | 71 | [Simplify Path](problems/0071-Simplify-Path) | 🟧 Medium | `C++` | 2026-10-08 |
+| 74 | [Search a 2D Matrix](problems/0074-Search-a-2D-Matrix) | 🟧 Medium | `C++` | 2026-10-22 |
 | 82 | [Remove Duplicates from Sorted List II](problems/0082-Remove-Duplicates-from-Sorted-List-II) | 🟧 Medium | `C++` | 2026-10-02 |
 | 86 | [Partition List](problems/0086-Partition-List) | 🟧 Medium | `C++` | 2026-10-02 |
 | 92 | [Reverse Linked List II](problems/0092-Reverse-Linked-List-II) | 🟧 Medium | `C++` | 2026-10-02 |
