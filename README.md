@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-93%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-41%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-48%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-94%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-41%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-49%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 1209 | [Remove All Adjacent Duplicates in String II](problems/1209-Remove-All-Adjacent-Duplicates-in-String-II) | 🟧 Medium | `C++` | 2026-10-24 |
 | 456 | [132 Pattern](problems/0456-132-Pattern) | 🟧 Medium | `C++` | 2026-10-24 |
 | 946 | [Validate Stack Sequences](problems/0946-Validate-Stack-Sequences) | 🟧 Medium | `C++` | 2026-10-22 |
 | 907 | [Sum of Subarray Minimums](problems/0907-Sum-of-Subarray-Minimums) | 🟧 Medium | `C++` | 2026-10-22 |
@@ -40,7 +41,6 @@
 | 2235 | [Add Two Integers](problems/2235-Add-Two-Integers) | 🟩 Easy | `C++` | 2026-10-19 |
 | 1249 | [Minimum Remove to Make Valid Parentheses](problems/1249-Minimum-Remove-to-Make-Valid-Parentheses) | 🟧 Medium | `C++` | 2026-10-16 |
 | 232 | [Implement Queue using Stacks](problems/0232-Implement-Queue-using-Stacks) | 🟩 Easy | `C++` | 2026-10-15 |
-| 2487 | [Remove Nodes From Linked List](problems/2487-Remove-Nodes-From-Linked-List) | 🟧 Medium | `C++` | 2026-10-14 |
 
 <details>
 <summary><strong>🟩 Easy</strong> — 41 solved</summary>
@@ -92,7 +92,7 @@
 </details>
 
 <details>
-<summary><strong>🟧 Medium</strong> — 48 solved</summary>
+<summary><strong>🟧 Medium</strong> — 49 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -136,6 +136,7 @@
 | 946 | [Validate Stack Sequences](problems/0946-Validate-Stack-Sequences) | 🟧 Medium | `C++` | 2026-10-22 |
 | 1019 | [Next Greater Node In Linked List](problems/1019-Next-Greater-Node-In-Linked-List) | 🟧 Medium | `C++` | 2026-10-03 |
 | 1171 | [Remove Zero Sum Consecutive Nodes from Linked List](problems/1171-Remove-Zero-Sum-Consecutive-Nodes-from-Linked-List) | 🟧 Medium | `C++` | 2026-10-03 |
+| 1209 | [Remove All Adjacent Duplicates in String II](problems/1209-Remove-All-Adjacent-Duplicates-in-String-II) | 🟧 Medium | `C++` | 2026-10-24 |
 | 1249 | [Minimum Remove to Make Valid Parentheses](problems/1249-Minimum-Remove-to-Make-Valid-Parentheses) | 🟧 Medium | `C++` | 2026-10-16 |
 | 1669 | [Merge In Between Linked Lists](problems/1669-Merge-In-Between-Linked-Lists) | 🟧 Medium | `C++` | 2026-10-03 |
 | 1721 | [Swapping Nodes in a Linked List](problems/1721-Swapping-Nodes-in-a-Linked-List) | 🟧 Medium | `C++` | 2026-10-02 |
