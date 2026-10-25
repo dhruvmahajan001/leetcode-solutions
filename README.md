@@ -31,7 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
-| 1209 | [Remove All Adjacent Duplicates in String II](problems/1209-Remove-All-Adjacent-Duplicates-in-String-II) | 🟧 Medium | `C++` | 2026-10-24 |
+| 1209 | [Remove All Adjacent Duplicates in String II](problems/1209-Remove-All-Adjacent-Duplicates-in-String-II) | 🟧 Medium | `C++` | 2026-10-25 |
 | 456 | [132 Pattern](problems/0456-132-Pattern) | 🟧 Medium | `C++` | 2026-10-24 |
 | 946 | [Validate Stack Sequences](problems/0946-Validate-Stack-Sequences) | 🟧 Medium | `C++` | 2026-10-22 |
 | 907 | [Sum of Subarray Minimums](problems/0907-Sum-of-Subarray-Minimums) | 🟧 Medium | `C++` | 2026-10-22 |
@@ -136,7 +136,7 @@
 | 946 | [Validate Stack Sequences](problems/0946-Validate-Stack-Sequences) | 🟧 Medium | `C++` | 2026-10-22 |
 | 1019 | [Next Greater Node In Linked List](problems/1019-Next-Greater-Node-In-Linked-List) | 🟧 Medium | `C++` | 2026-10-03 |
 | 1171 | [Remove Zero Sum Consecutive Nodes from Linked List](problems/1171-Remove-Zero-Sum-Consecutive-Nodes-from-Linked-List) | 🟧 Medium | `C++` | 2026-10-03 |
-| 1209 | [Remove All Adjacent Duplicates in String II](problems/1209-Remove-All-Adjacent-Duplicates-in-String-II) | 🟧 Medium | `C++` | 2026-10-24 |
+| 1209 | [Remove All Adjacent Duplicates in String II](problems/1209-Remove-All-Adjacent-Duplicates-in-String-II) | 🟧 Medium | `C++` | 2026-10-25 |
 | 1249 | [Minimum Remove to Make Valid Parentheses](problems/1249-Minimum-Remove-to-Make-Valid-Parentheses) | 🟧 Medium | `C++` | 2026-10-16 |
 | 1669 | [Merge In Between Linked Lists](problems/1669-Merge-In-Between-Linked-Lists) | 🟧 Medium | `C++` | 2026-10-03 |
 | 1721 | [Swapping Nodes in a Linked List](problems/1721-Swapping-Nodes-in-a-Linked-List) | 🟧 Medium | `C++` | 2026-10-02 |
