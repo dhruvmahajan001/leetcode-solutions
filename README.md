@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 232 | [Implement Queue using Stacks](problems/0232-Implement-Queue-using-Stacks) | 🟩 Easy | `C++` | 2026-10-26 |
 | 1209 | [Remove All Adjacent Duplicates in String II](problems/1209-Remove-All-Adjacent-Duplicates-in-String-II) | 🟧 Medium | `C++` | 2026-10-25 |
 | 456 | [132 Pattern](problems/0456-132-Pattern) | 🟧 Medium | `C++` | 2026-10-24 |
 | 946 | [Validate Stack Sequences](problems/0946-Validate-Stack-Sequences) | 🟧 Medium | `C++` | 2026-10-22 |
@@ -40,7 +41,6 @@
 | 29 | [Divide Two Integers](problems/0029-Divide-Two-Integers) | 🟧 Medium | `C++` | 2026-10-20 |
 | 2235 | [Add Two Integers](problems/2235-Add-Two-Integers) | 🟩 Easy | `C++` | 2026-10-19 |
 | 1249 | [Minimum Remove to Make Valid Parentheses](problems/1249-Minimum-Remove-to-Make-Valid-Parentheses) | 🟧 Medium | `C++` | 2026-10-16 |
-| 232 | [Implement Queue using Stacks](problems/0232-Implement-Queue-using-Stacks) | 🟩 Easy | `C++` | 2026-10-15 |
 
 <details>
 <summary><strong>🟩 Easy</strong> — 41 solved</summary>
@@ -56,7 +56,7 @@
 | 160 | [Intersection of Two Linked Lists](problems/0160-Intersection-of-Two-Linked-Lists) | 🟩 Easy | `C++` | 2026-10-02 |
 | 203 | [Remove Linked List Elements](problems/0203-Remove-Linked-List-Elements) | 🟩 Easy | `C++` | 2026-10-02 |
 | 206 | [Reverse Linked List](problems/0206-Reverse-Linked-List) | 🟩 Easy | `C++` | 2026-10-02 |
-| 232 | [Implement Queue using Stacks](problems/0232-Implement-Queue-using-Stacks) | 🟩 Easy | `C++` | 2026-10-15 |
+| 232 | [Implement Queue using Stacks](problems/0232-Implement-Queue-using-Stacks) | 🟩 Easy | `C++` | 2026-10-26 |
 | 234 | [Palindrome Linked List](problems/0234-Palindrome-Linked-List) | 🟩 Easy | `C++` | 2026-10-02 |
 | 258 | [Add Digits](problems/0258-Add-Digits) | 🟩 Easy | `C++` | 2026-10-11 |
 | 292 | [Nim Game](problems/0292-Nim-Game) | 🟩 Easy | `C++` | 2026-10-11 |
