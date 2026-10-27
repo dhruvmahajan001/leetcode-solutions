@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 2487 | [Remove Nodes From Linked List](problems/2487-Remove-Nodes-From-Linked-List) | 🟧 Medium | `C++` | 2026-10-27 |
 | 232 | [Implement Queue using Stacks](problems/0232-Implement-Queue-using-Stacks) | 🟩 Easy | `C++` | 2026-10-26 |
 | 1209 | [Remove All Adjacent Duplicates in String II](problems/1209-Remove-All-Adjacent-Duplicates-in-String-II) | 🟧 Medium | `C++` | 2026-10-25 |
 | 456 | [132 Pattern](problems/0456-132-Pattern) | 🟧 Medium | `C++` | 2026-10-24 |
@@ -40,7 +41,6 @@
 | 2206 | [Divide Array Into Equal Pairs](problems/2206-Divide-Array-Into-Equal-Pairs) | 🟩 Easy | `C++` | 2026-10-21 |
 | 29 | [Divide Two Integers](problems/0029-Divide-Two-Integers) | 🟧 Medium | `C++` | 2026-10-20 |
 | 2235 | [Add Two Integers](problems/2235-Add-Two-Integers) | 🟩 Easy | `C++` | 2026-10-19 |
-| 1249 | [Minimum Remove to Make Valid Parentheses](problems/1249-Minimum-Remove-to-Make-Valid-Parentheses) | 🟧 Medium | `C++` | 2026-10-16 |
 
 <details>
 <summary><strong>🟩 Easy</strong> — 41 solved</summary>
@@ -144,7 +144,7 @@
 | 2130 | [Maximum Twin Sum of a Linked List](problems/2130-Maximum-Twin-Sum-of-a-Linked-List) | 🟧 Medium | `C++` | 2026-10-03 |
 | 2181 | [Merge Nodes in Between Zeros](problems/2181-Merge-Nodes-in-Between-Zeros) | 🟧 Medium | `C++` | 2026-10-03 |
 | 2396 | [Strictly Palindromic Number](problems/2396-Strictly-Palindromic-Number) | 🟧 Medium | `C++` | 2026-10-11 |
-| 2487 | [Remove Nodes From Linked List](problems/2487-Remove-Nodes-From-Linked-List) | 🟧 Medium | `C++` | 2026-10-14 |
+| 2487 | [Remove Nodes From Linked List](problems/2487-Remove-Nodes-From-Linked-List) | 🟧 Medium | `C++` | 2026-10-27 |
 
 </details>
 
