@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 24 | [Swap Nodes in Pairs](problems/0024-Swap-Nodes-in-Pairs) | 🟧 Medium | `C++` | 2026-10-30 |
 | 709 | [To Lower Case](problems/0709-To-Lower-Case) | 🟩 Easy | `C++` | 2026-10-28 |
 | 2487 | [Remove Nodes From Linked List](problems/2487-Remove-Nodes-From-Linked-List) | 🟧 Medium | `C++` | 2026-10-27 |
 | 232 | [Implement Queue using Stacks](problems/0232-Implement-Queue-using-Stacks) | 🟩 Easy | `C++` | 2026-10-26 |
@@ -40,7 +41,6 @@
 | 907 | [Sum of Subarray Minimums](problems/0907-Sum-of-Subarray-Minimums) | 🟧 Medium | `C++` | 2026-10-22 |
 | 74 | [Search a 2D Matrix](problems/0074-Search-a-2D-Matrix) | 🟧 Medium | `C++` | 2026-10-22 |
 | 2206 | [Divide Array Into Equal Pairs](problems/2206-Divide-Array-Into-Equal-Pairs) | 🟩 Easy | `C++` | 2026-10-21 |
-| 29 | [Divide Two Integers](problems/0029-Divide-Two-Integers) | 🟧 Medium | `C++` | 2026-10-20 |
 
 <details>
 <summary><strong>🟩 Easy</strong> — 42 solved</summary>
@@ -100,7 +100,7 @@
 | 2 | [Add Two Numbers](problems/0002-Add-Two-Numbers) | 🟧 Medium | `C++` | 2026-10-11 |
 | 19 | [Remove Nth Node From End of List](problems/0019-Remove-Nth-Node-From-End-of-List) | 🟧 Medium | `C++` | 2026-10-02 |
 | 22 | [Generate Parentheses](problems/0022-Generate-Parentheses) | 🟧 Medium | `C++` | 2026-10-08 |
-| 24 | [Swap Nodes in Pairs](problems/0024-Swap-Nodes-in-Pairs) | 🟧 Medium | `C++` | 2026-10-02 |
+| 24 | [Swap Nodes in Pairs](problems/0024-Swap-Nodes-in-Pairs) | 🟧 Medium | `C++` | 2026-10-30 |
 | 29 | [Divide Two Integers](problems/0029-Divide-Two-Integers) | 🟧 Medium | `C++` | 2026-10-20 |
 | 33 | [Search in Rotated Sorted Array](problems/0033-Search-in-Rotated-Sorted-Array) | 🟧 Medium | `C++` | 2026-10-04 |
 | 46 | [Permutations](problems/0046-Permutations) | 🟧 Medium | `C++` | 2026-10-04 |
