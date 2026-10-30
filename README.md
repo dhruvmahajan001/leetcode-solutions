@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 143 | [Reorder List](problems/0143-Reorder-List) | 🟧 Medium | `C++` | 2026-10-30 |
 | 24 | [Swap Nodes in Pairs](problems/0024-Swap-Nodes-in-Pairs) | 🟧 Medium | `C++` | 2026-10-30 |
 | 709 | [To Lower Case](problems/0709-To-Lower-Case) | 🟩 Easy | `C++` | 2026-10-28 |
 | 2487 | [Remove Nodes From Linked List](problems/2487-Remove-Nodes-From-Linked-List) | 🟧 Medium | `C++` | 2026-10-27 |
@@ -40,7 +41,6 @@
 | 946 | [Validate Stack Sequences](problems/0946-Validate-Stack-Sequences) | 🟧 Medium | `C++` | 2026-10-22 |
 | 907 | [Sum of Subarray Minimums](problems/0907-Sum-of-Subarray-Minimums) | 🟧 Medium | `C++` | 2026-10-22 |
 | 74 | [Search a 2D Matrix](problems/0074-Search-a-2D-Matrix) | 🟧 Medium | `C++` | 2026-10-22 |
-| 2206 | [Divide Array Into Equal Pairs](problems/2206-Divide-Array-Into-Equal-Pairs) | 🟩 Easy | `C++` | 2026-10-21 |
 
 <details>
 <summary><strong>🟩 Easy</strong> — 42 solved</summary>
@@ -111,7 +111,7 @@
 | 86 | [Partition List](problems/0086-Partition-List) | 🟧 Medium | `C++` | 2026-10-02 |
 | 92 | [Reverse Linked List II](problems/0092-Reverse-Linked-List-II) | 🟧 Medium | `C++` | 2026-10-02 |
 | 142 | [Linked List Cycle II](problems/0142-Linked-List-Cycle-II) | 🟧 Medium | `C++` | 2026-10-02 |
-| 143 | [Reorder List](problems/0143-Reorder-List) | 🟧 Medium | `C++` | 2026-10-02 |
+| 143 | [Reorder List](problems/0143-Reorder-List) | 🟧 Medium | `C++` | 2026-10-30 |
 | 147 | [Insertion Sort List](problems/0147-Insertion-Sort-List) | 🟧 Medium | `C++` | 2026-10-02 |
 | 148 | [Sort List](problems/0148-Sort-List) | 🟧 Medium | `C++` | 2026-10-02 |
 | 150 | [Evaluate Reverse Polish Notation](problems/0150-Evaluate-Reverse-Polish-Notation) | 🟧 Medium | `C++` | 2026-10-08 |
