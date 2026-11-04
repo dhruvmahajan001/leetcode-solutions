@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 2 | [Add Two Numbers](problems/0002-Add-Two-Numbers) | 🟧 Medium | `C++` | 2026-11-04 |
 | 232 | [Implement Queue using Stacks](problems/0232-Implement-Queue-using-Stacks) | 🟩 Easy | `C++` | 2026-11-03 |
 | 1 | [Two Sum](problems/0001-Two-Sum) | 🟩 Easy | `C++` | 2026-11-02 |
 | 143 | [Reorder List](problems/0143-Reorder-List) | 🟧 Medium | `C++` | 2026-10-30 |
@@ -40,7 +41,6 @@
 | 1209 | [Remove All Adjacent Duplicates in String II](problems/1209-Remove-All-Adjacent-Duplicates-in-String-II) | 🟧 Medium | `C++` | 2026-10-25 |
 | 456 | [132 Pattern](problems/0456-132-Pattern) | 🟧 Medium | `C++` | 2026-10-24 |
 | 946 | [Validate Stack Sequences](problems/0946-Validate-Stack-Sequences) | 🟧 Medium | `C++` | 2026-10-22 |
-| 907 | [Sum of Subarray Minimums](problems/0907-Sum-of-Subarray-Minimums) | 🟧 Medium | `C++` | 2026-10-22 |
 
 <details>
 <summary><strong>🟩 Easy</strong> — 43 solved</summary>
@@ -98,7 +98,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
-| 2 | [Add Two Numbers](problems/0002-Add-Two-Numbers) | 🟧 Medium | `C++` | 2026-10-11 |
+| 2 | [Add Two Numbers](problems/0002-Add-Two-Numbers) | 🟧 Medium | `C++` | 2026-11-04 |
 | 19 | [Remove Nth Node From End of List](problems/0019-Remove-Nth-Node-From-End-of-List) | 🟧 Medium | `C++` | 2026-10-02 |
 | 22 | [Generate Parentheses](problems/0022-Generate-Parentheses) | 🟧 Medium | `C++` | 2026-10-08 |
 | 24 | [Swap Nodes in Pairs](problems/0024-Swap-Nodes-in-Pairs) | 🟧 Medium | `C++` | 2026-10-30 |
