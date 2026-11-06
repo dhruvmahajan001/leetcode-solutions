@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-97%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-43%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-49%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-5%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-98%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-43%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-50%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-5%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 53 | [Maximum Subarray](problems/0053-Maximum-Subarray) | 🟧 Medium | `C++` | 2026-11-06 |
 | 1944 | [Number of Visible People in a Queue](problems/1944-Number-of-Visible-People-in-a-Queue) | 🟥 Hard | `C++` | 2026-11-05 |
 | 2 | [Add Two Numbers](problems/0002-Add-Two-Numbers) | 🟧 Medium | `C++` | 2026-11-04 |
 | 232 | [Implement Queue using Stacks](problems/0232-Implement-Queue-using-Stacks) | 🟩 Easy | `C++` | 2026-11-03 |
@@ -40,7 +41,6 @@
 | 709 | [To Lower Case](problems/0709-To-Lower-Case) | 🟩 Easy | `C++` | 2026-10-28 |
 | 2487 | [Remove Nodes From Linked List](problems/2487-Remove-Nodes-From-Linked-List) | 🟧 Medium | `C++` | 2026-10-27 |
 | 1209 | [Remove All Adjacent Duplicates in String II](problems/1209-Remove-All-Adjacent-Duplicates-in-String-II) | 🟧 Medium | `C++` | 2026-10-25 |
-| 456 | [132 Pattern](problems/0456-132-Pattern) | 🟧 Medium | `C++` | 2026-10-24 |
 
 <details>
 <summary><strong>🟩 Easy</strong> — 43 solved</summary>
@@ -94,7 +94,7 @@
 </details>
 
 <details>
-<summary><strong>🟧 Medium</strong> — 49 solved</summary>
+<summary><strong>🟧 Medium</strong> — 50 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -105,6 +105,7 @@
 | 29 | [Divide Two Integers](problems/0029-Divide-Two-Integers) | 🟧 Medium | `C++` | 2026-10-20 |
 | 33 | [Search in Rotated Sorted Array](problems/0033-Search-in-Rotated-Sorted-Array) | 🟧 Medium | `C++` | 2026-10-04 |
 | 46 | [Permutations](problems/0046-Permutations) | 🟧 Medium | `C++` | 2026-10-04 |
+| 53 | [Maximum Subarray](problems/0053-Maximum-Subarray) | 🟧 Medium | `C++` | 2026-11-06 |
 | 61 | [Rotate List](problems/0061-Rotate-List) | 🟧 Medium | `C++` | 2026-10-02 |
 | 71 | [Simplify Path](problems/0071-Simplify-Path) | 🟧 Medium | `C++` | 2026-10-08 |
 | 74 | [Search a 2D Matrix](problems/0074-Search-a-2D-Matrix) | 🟧 Medium | `C++` | 2026-10-22 |
