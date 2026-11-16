@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-101%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-43%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-53%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-5%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-102%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-44%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-53%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-5%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 2243 | [Calculate Digit Sum of a String](problems/2243-Calculate-Digit-Sum-of-a-String) | 🟩 Easy | `C++` | 2026-11-16 |
 | 7 | [Reverse Integer](problems/0007-Reverse-Integer) | 🟧 Medium | `C++` | 2026-11-15 |
 | 1944 | [Number of Visible People in a Queue](problems/1944-Number-of-Visible-People-in-a-Queue) | 🟥 Hard | `C++` | 2026-11-14 |
 | 3 | [Longest Substring Without Repeating Characters](problems/0003-Longest-Substring-Without-Repeating-Characters) | 🟧 Medium | `C++` | 2026-11-13 |
@@ -40,10 +41,9 @@
 | 2 | [Add Two Numbers](problems/0002-Add-Two-Numbers) | 🟧 Medium | `C++` | 2026-11-04 |
 | 232 | [Implement Queue using Stacks](problems/0232-Implement-Queue-using-Stacks) | 🟩 Easy | `C++` | 2026-11-03 |
 | 1 | [Two Sum](problems/0001-Two-Sum) | 🟩 Easy | `C++` | 2026-11-02 |
-| 143 | [Reorder List](problems/0143-Reorder-List) | 🟧 Medium | `C++` | 2026-10-30 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 43 solved</summary>
+<summary><strong>🟩 Easy</strong> — 44 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -83,6 +83,7 @@
 | 2119 | [A Number After a Double Reversal](problems/2119-A-Number-After-a-Double-Reversal) | 🟩 Easy | `C++` | 2026-10-11 |
 | 2206 | [Divide Array Into Equal Pairs](problems/2206-Divide-Array-Into-Equal-Pairs) | 🟩 Easy | `C++` | 2026-10-21 |
 | 2235 | [Add Two Integers](problems/2235-Add-Two-Integers) | 🟩 Easy | `C++` | 2026-10-19 |
+| 2243 | [Calculate Digit Sum of a String](problems/2243-Calculate-Digit-Sum-of-a-String) | 🟩 Easy | `C++` | 2026-11-16 |
 | 2520 | [Count the Digits That Divide a Number](problems/2520-Count-the-Digits-That-Divide-a-Number) | 🟩 Easy | `C++` | 2026-10-11 |
 | 2652 | [Sum Multiples](problems/2652-Sum-Multiples) | 🟩 Easy | `C++` | 2026-10-11 |
 | 2716 | [Minimize String Length](problems/2716-Minimize-String-Length) | 🟩 Easy | `C++` | 2026-10-08 |
