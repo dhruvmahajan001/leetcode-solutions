@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 2 | [Add Two Numbers](problems/0002-Add-Two-Numbers) | 🟧 Medium | `C++` | 2026-11-17 |
 | 2243 | [Calculate Digit Sum of a String](problems/2243-Calculate-Digit-Sum-of-a-String) | 🟩 Easy | `C++` | 2026-11-16 |
 | 7 | [Reverse Integer](problems/0007-Reverse-Integer) | 🟧 Medium | `C++` | 2026-11-15 |
 | 1944 | [Number of Visible People in a Queue](problems/1944-Number-of-Visible-People-in-a-Queue) | 🟥 Hard | `C++` | 2026-11-14 |
@@ -38,7 +39,6 @@
 | 31 | [Next Permutation](problems/0031-Next-Permutation) | 🟧 Medium | `C++` | 2026-11-11 |
 | 92 | [Reverse Linked List II](problems/0092-Reverse-Linked-List-II) | 🟧 Medium | `C++` | 2026-11-07 |
 | 53 | [Maximum Subarray](problems/0053-Maximum-Subarray) | 🟧 Medium | `C++` | 2026-11-06 |
-| 2 | [Add Two Numbers](problems/0002-Add-Two-Numbers) | 🟧 Medium | `C++` | 2026-11-04 |
 | 232 | [Implement Queue using Stacks](problems/0232-Implement-Queue-using-Stacks) | 🟩 Easy | `C++` | 2026-11-03 |
 | 1 | [Two Sum](problems/0001-Two-Sum) | 🟩 Easy | `C++` | 2026-11-02 |
 
@@ -99,7 +99,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
-| 2 | [Add Two Numbers](problems/0002-Add-Two-Numbers) | 🟧 Medium | `C++` | 2026-11-04 |
+| 2 | [Add Two Numbers](problems/0002-Add-Two-Numbers) | 🟧 Medium | `C++` | 2026-11-17 |
 | 3 | [Longest Substring Without Repeating Characters](problems/0003-Longest-Substring-Without-Repeating-Characters) | 🟧 Medium | `C++` | 2026-11-13 |
 | 7 | [Reverse Integer](problems/0007-Reverse-Integer) | 🟧 Medium | `C++` | 2026-11-15 |
 | 19 | [Remove Nth Node From End of List](problems/0019-Remove-Nth-Node-From-End-of-List) | 🟧 Medium | `C++` | 2026-10-02 |
