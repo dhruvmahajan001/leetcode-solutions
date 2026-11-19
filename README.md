@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-103%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-44%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-54%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-5%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-104%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-44%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-55%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-5%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 11 | [Container With Most Water](problems/0011-Container-With-Most-Water) | 🟧 Medium | `C++` | 2026-11-19 |
 | 1441 | [Build an Array With Stack Operations](problems/1441-Build-an-Array-With-Stack-Operations) | 🟧 Medium | `C++` | 2026-11-18 |
 | 3 | [Longest Substring Without Repeating Characters](problems/0003-Longest-Substring-Without-Repeating-Characters) | 🟧 Medium | `C++` | 2026-11-18 |
 | 2 | [Add Two Numbers](problems/0002-Add-Two-Numbers) | 🟧 Medium | `C++` | 2026-11-17 |
@@ -40,7 +41,6 @@
 | 31 | [Next Permutation](problems/0031-Next-Permutation) | 🟧 Medium | `C++` | 2026-11-11 |
 | 92 | [Reverse Linked List II](problems/0092-Reverse-Linked-List-II) | 🟧 Medium | `C++` | 2026-11-07 |
 | 53 | [Maximum Subarray](problems/0053-Maximum-Subarray) | 🟧 Medium | `C++` | 2026-11-06 |
-| 232 | [Implement Queue using Stacks](problems/0232-Implement-Queue-using-Stacks) | 🟩 Easy | `C++` | 2026-11-03 |
 
 <details>
 <summary><strong>🟩 Easy</strong> — 44 solved</summary>
@@ -95,13 +95,14 @@
 </details>
 
 <details>
-<summary><strong>🟧 Medium</strong> — 54 solved</summary>
+<summary><strong>🟧 Medium</strong> — 55 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
 | 2 | [Add Two Numbers](problems/0002-Add-Two-Numbers) | 🟧 Medium | `C++` | 2026-11-17 |
 | 3 | [Longest Substring Without Repeating Characters](problems/0003-Longest-Substring-Without-Repeating-Characters) | 🟧 Medium | `C++` | 2026-11-18 |
 | 7 | [Reverse Integer](problems/0007-Reverse-Integer) | 🟧 Medium | `C++` | 2026-11-15 |
+| 11 | [Container With Most Water](problems/0011-Container-With-Most-Water) | 🟧 Medium | `C++` | 2026-11-19 |
 | 19 | [Remove Nth Node From End of List](problems/0019-Remove-Nth-Node-From-End-of-List) | 🟧 Medium | `C++` | 2026-10-02 |
 | 22 | [Generate Parentheses](problems/0022-Generate-Parentheses) | 🟧 Medium | `C++` | 2026-10-08 |
 | 24 | [Swap Nodes in Pairs](problems/0024-Swap-Nodes-in-Pairs) | 🟧 Medium | `C++` | 2026-10-30 |
