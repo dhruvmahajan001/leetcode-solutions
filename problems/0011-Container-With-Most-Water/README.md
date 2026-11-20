@@ -2,7 +2,7 @@
 
 # 11. Container With Most Water
 
-![Difficulty](https://img.shields.io/badge/DIFFICULTY-Medium-ffa116?style=for-the-badge&labelColor=1a1a2e)  ![Language](https://img.shields.io/badge/LANGUAGE-C%2B%2B-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Solutions](https://img.shields.io/badge/SOLUTIONS-2-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Date](https://img.shields.io/badge/DATE-2026--11--19-605d5d?style=for-the-badge&labelColor=1a1a2e)
+![Difficulty](https://img.shields.io/badge/DIFFICULTY-Medium-ffa116?style=for-the-badge&labelColor=1a1a2e)  ![Language](https://img.shields.io/badge/LANGUAGE-C%2B%2B-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Solutions](https://img.shields.io/badge/SOLUTIONS-3-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Date](https://img.shields.io/badge/DATE-2026--11--20-605d5d?style=for-the-badge&labelColor=1a1a2e)
 
 [![View on LeetCode](https://img.shields.io/badge/View%20on-LeetCode-ffa116?style=flat-square&logo=leetcode&logoColor=ffa116)](https://leetcode.com/problems/container-with-most-water/)
 
@@ -15,7 +15,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="panel-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="panel-light.svg">
-  <img alt="Topics: Array, Two Pointers, Greedy — best runtime 2 ms (Beats 40%), best memory 63.1 MB (Beats 6%)" src="panel-dark.svg">
+  <img alt="Topics: Array, Two Pointers, Greedy — best runtime 2 ms (Beats 40%), best memory 62.8 MB (Beats 84%)" src="panel-dark.svg">
 </picture>
 
 </div>
@@ -24,9 +24,9 @@
 
 | | |
 |:--|:--|
-| **Attempts** | 2 before accepted |
-| **Time to solve** | 1 min |
-| **Verdicts** | ✅ Accepted → ✅ Accepted |
+| **Attempts** | 3 before accepted |
+| **Time to solve** | 34 h 13 min |
+| **Verdicts** | ✅ Accepted → ✅ Accepted → ✅ Accepted |
 
 ---
 
@@ -36,12 +36,13 @@ _No notes yet._
 
 ---
 
-### SOLUTIONS (2)
+### SOLUTIONS (3)
 
 | # | File | Language | Date |
 |:-:|------|:--------:|:----:|
-| 1 | [sol1.cpp](./sol1.cpp) | `C++` | 2026-11-19 |
-| 2 | [sol2.cpp](./sol2.cpp) | `C++` | 2026-11-19 ← **latest** |
+| 1 | [sol1.cpp](./sol1.cpp) | `C++` | 2026-11-20 |
+| 2 | [sol2.cpp](./sol2.cpp) | `C++` | 2026-11-20 |
+| 3 | [sol3.cpp](./sol3.cpp) | `C++` | 2026-11-20 ← **latest** |
 
 ---
 
