@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 84 | [Largest Rectangle in Histogram](problems/0084-Largest-Rectangle-in-Histogram) | 🟥 Hard | `C++` | 2026-11-21 |
 | 15 | [3Sum](problems/0015-3Sum) | 🟧 Medium | `C++` | 2026-11-20 |
 | 11 | [Container With Most Water](problems/0011-Container-With-Most-Water) | 🟧 Medium | `C++` | 2026-11-19 |
 | 1441 | [Build an Array With Stack Operations](problems/1441-Build-an-Array-With-Stack-Operations) | 🟧 Medium | `C++` | 2026-11-18 |
@@ -40,7 +41,6 @@
 | 7 | [Reverse Integer](problems/0007-Reverse-Integer) | 🟧 Medium | `C++` | 2026-11-15 |
 | 1944 | [Number of Visible People in a Queue](problems/1944-Number-of-Visible-People-in-a-Queue) | 🟥 Hard | `C++` | 2026-11-14 |
 | 31 | [Next Permutation](problems/0031-Next-Permutation) | 🟧 Medium | `C++` | 2026-11-11 |
-| 92 | [Reverse Linked List II](problems/0092-Reverse-Linked-List-II) | 🟧 Medium | `C++` | 2026-11-07 |
 
 <details>
 <summary><strong>🟩 Easy</strong> — 44 solved</summary>
@@ -166,7 +166,7 @@
 | 23 | [Merge k Sorted Lists](problems/0023-Merge-k-Sorted-Lists) | 🟥 Hard | `C++` | 2026-10-03 |
 | 25 | [Reverse Nodes in k-Group](problems/0025-Reverse-Nodes-in-k-Group) | 🟥 Hard | `C++` | 2026-10-02 |
 | 32 | [Longest Valid Parentheses](problems/0032-Longest-Valid-Parentheses) | 🟥 Hard | `C++` | 2026-10-06 |
-| 84 | [Largest Rectangle in Histogram](problems/0084-Largest-Rectangle-in-Histogram) | 🟥 Hard | `C++` | 2026-10-06 |
+| 84 | [Largest Rectangle in Histogram](problems/0084-Largest-Rectangle-in-Histogram) | 🟥 Hard | `C++` | 2026-11-21 |
 | 1944 | [Number of Visible People in a Queue](problems/1944-Number-of-Visible-People-in-a-Queue) | 🟥 Hard | `C++` | 2026-11-14 |
 
 </details>
