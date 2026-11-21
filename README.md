@@ -32,11 +32,11 @@
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
 | 84 | [Largest Rectangle in Histogram](problems/0084-Largest-Rectangle-in-Histogram) | 🟥 Hard | `C++` | 2026-11-21 |
+| 2 | [Add Two Numbers](problems/0002-Add-Two-Numbers) | 🟧 Medium | `C++` | 2026-11-21 |
 | 15 | [3Sum](problems/0015-3Sum) | 🟧 Medium | `C++` | 2026-11-20 |
 | 11 | [Container With Most Water](problems/0011-Container-With-Most-Water) | 🟧 Medium | `C++` | 2026-11-19 |
 | 1441 | [Build an Array With Stack Operations](problems/1441-Build-an-Array-With-Stack-Operations) | 🟧 Medium | `C++` | 2026-11-18 |
 | 3 | [Longest Substring Without Repeating Characters](problems/0003-Longest-Substring-Without-Repeating-Characters) | 🟧 Medium | `C++` | 2026-11-18 |
-| 2 | [Add Two Numbers](problems/0002-Add-Two-Numbers) | 🟧 Medium | `C++` | 2026-11-17 |
 | 2243 | [Calculate Digit Sum of a String](problems/2243-Calculate-Digit-Sum-of-a-String) | 🟩 Easy | `C++` | 2026-11-16 |
 | 7 | [Reverse Integer](problems/0007-Reverse-Integer) | 🟧 Medium | `C++` | 2026-11-15 |
 | 1944 | [Number of Visible People in a Queue](problems/1944-Number-of-Visible-People-in-a-Queue) | 🟥 Hard | `C++` | 2026-11-14 |
@@ -99,7 +99,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
-| 2 | [Add Two Numbers](problems/0002-Add-Two-Numbers) | 🟧 Medium | `C++` | 2026-11-17 |
+| 2 | [Add Two Numbers](problems/0002-Add-Two-Numbers) | 🟧 Medium | `C++` | 2026-11-21 |
 | 3 | [Longest Substring Without Repeating Characters](problems/0003-Longest-Substring-Without-Repeating-Characters) | 🟧 Medium | `C++` | 2026-11-18 |
 | 7 | [Reverse Integer](problems/0007-Reverse-Integer) | 🟧 Medium | `C++` | 2026-11-15 |
 | 11 | [Container With Most Water](problems/0011-Container-With-Most-Water) | 🟧 Medium | `C++` | 2026-11-19 |
