@@ -31,7 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
-| 27 | [Remove Element](problems/0027-Remove-Element) | 🟩 Easy | `C++` | 2026-11-24 |
+| 27 | [Remove Element](problems/0027-Remove-Element) | 🟩 Easy | `C++` | 2026-11-25 |
 | 84 | [Largest Rectangle in Histogram](problems/0084-Largest-Rectangle-in-Histogram) | 🟥 Hard | `C++` | 2026-11-21 |
 | 2 | [Add Two Numbers](problems/0002-Add-Two-Numbers) | 🟧 Medium | `C++` | 2026-11-21 |
 | 15 | [3Sum](problems/0015-3Sum) | 🟧 Medium | `C++` | 2026-11-20 |
@@ -50,7 +50,7 @@
 | 1 | [Two Sum](problems/0001-Two-Sum) | 🟩 Easy | `C++` | 2026-11-02 |
 | 20 | [Valid Parentheses](problems/0020-Valid-Parentheses) | 🟩 Easy | `C++` | 2026-10-05 |
 | 21 | [Merge Two Sorted Lists](problems/0021-Merge-Two-Sorted-Lists) | 🟩 Easy | `C++` | 2026-10-02 |
-| 27 | [Remove Element](problems/0027-Remove-Element) | 🟩 Easy | `C++` | 2026-11-24 |
+| 27 | [Remove Element](problems/0027-Remove-Element) | 🟩 Easy | `C++` | 2026-11-25 |
 | 28 | [Find the Index of the First Occurrence in a String](problems/0028-Find-the-Index-of-the-First-Occurrence-in-a-String) | 🟩 Easy | `C++` | 2026-10-11 |
 | 69 | [Sqrt(x)](problems/0069-Sqrtx) | 🟩 Easy | `C++` | 2026-10-03 |
 | 83 | [Remove Duplicates from Sorted List](problems/0083-Remove-Duplicates-from-Sorted-List) | 🟩 Easy | `C++` | 2026-10-05 |
