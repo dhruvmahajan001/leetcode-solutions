@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 31 | [Next Permutation](problems/0031-Next-Permutation) | 🟧 Medium | `C++` | 2026-11-26 |
 | 27 | [Remove Element](problems/0027-Remove-Element) | 🟩 Easy | `C++` | 2026-11-25 |
 | 84 | [Largest Rectangle in Histogram](problems/0084-Largest-Rectangle-in-Histogram) | 🟥 Hard | `C++` | 2026-11-21 |
 | 2 | [Add Two Numbers](problems/0002-Add-Two-Numbers) | 🟧 Medium | `C++` | 2026-11-21 |
@@ -40,7 +41,6 @@
 | 3 | [Longest Substring Without Repeating Characters](problems/0003-Longest-Substring-Without-Repeating-Characters) | 🟧 Medium | `C++` | 2026-11-18 |
 | 2243 | [Calculate Digit Sum of a String](problems/2243-Calculate-Digit-Sum-of-a-String) | 🟩 Easy | `C++` | 2026-11-16 |
 | 7 | [Reverse Integer](problems/0007-Reverse-Integer) | 🟧 Medium | `C++` | 2026-11-15 |
-| 1944 | [Number of Visible People in a Queue](problems/1944-Number-of-Visible-People-in-a-Queue) | 🟥 Hard | `C++` | 2026-11-14 |
 
 <details>
 <summary><strong>🟩 Easy</strong> — 45 solved</summary>
@@ -109,7 +109,7 @@
 | 22 | [Generate Parentheses](problems/0022-Generate-Parentheses) | 🟧 Medium | `C++` | 2026-10-08 |
 | 24 | [Swap Nodes in Pairs](problems/0024-Swap-Nodes-in-Pairs) | 🟧 Medium | `C++` | 2026-10-30 |
 | 29 | [Divide Two Integers](problems/0029-Divide-Two-Integers) | 🟧 Medium | `C++` | 2026-10-20 |
-| 31 | [Next Permutation](problems/0031-Next-Permutation) | 🟧 Medium | `C++` | 2026-11-11 |
+| 31 | [Next Permutation](problems/0031-Next-Permutation) | 🟧 Medium | `C++` | 2026-11-26 |
 | 33 | [Search in Rotated Sorted Array](problems/0033-Search-in-Rotated-Sorted-Array) | 🟧 Medium | `C++` | 2026-10-04 |
 | 46 | [Permutations](problems/0046-Permutations) | 🟧 Medium | `C++` | 2026-10-04 |
 | 53 | [Maximum Subarray](problems/0053-Maximum-Subarray) | 🟧 Medium | `C++` | 2026-11-06 |
